@@ -1,0 +1,10 @@
+Delivery / Kit order,# Sets/kits,# Materials,Instructions,Status De-pall,Status ML1,Status ML2,Active,Pending Line clearing,Est. volume,Priority,Shipping point,Destination,Incomplete,Proposal ML,Scope,Status Reservation,Amount,ReservedAmount,PickedAmount,Haz. Material
+100034750,800,25,NO,C,,B,Yes,No,18,3,1999,Denmark,No,ML2,--,--,0,0,0,No
+100034938,183,9,NO,C,,A,No,No,3,3,1999,Denmark,No,ML2,--,--,0,0,0,No
+100034838,36,15,NO,C,B,,Yes,No,0,4,1999,Denmark,No,ML1,--,--,0,0,0,No
+100034624,66,15,NO,C,A,,No,No,1,5,1999,Denmark,No,ML2,--,--,0,0,0,No
+100034836,57,2,NO,C,A,,No,No,1,5,1999,Denmark,No,ML2,--,--,0,0,0,Yes
+100034435,60,4,NO,C,,A,No,No,--,5,1999,Denmark,No,ML2,--,--,0,0,0,No
+100034735,50,4,NO,C,A,,No,No,0,5,1999,Denmark,No,ML2,--,--,0,0,0,Yes
+100034834,58,3,NO,,A,A,No,No,1,5,1999,Denmark,No,ML2,--,--,0,0,0,No
+100035074,574,9,NO,B,A,,No,No,9,5,1999,Denmark,No,ML2,--,--,0,0,0,No

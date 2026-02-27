@@ -1,0 +1,23 @@
+# Core optimization and data processing
+ortools>=9.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web interface
+streamlit>=1.32.0
+plotly>=5.18.0
+watchdog>=3.0.0
+extra-streamlit-components>=0.1.0
+
+# Data processing
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+python-dateutil>=2.9.0
+PyYAML>=6.0.0
+
+
+# Optional: Enhanced visualization
+networkx>=3.0.0
+setuptools>=57.4.0
+fpdf==1.7.2

@@ -1,0 +1,976 @@
+{
+  "metadata": {
+    "optimization_timestamp": "20260223_140830",
+    "start_time": "2026-02-23 14:07:31",
+    "end_time": "2026-02-23 14:08:30",
+    "total_duration_seconds": 59.24391770362854,
+    "solver_time_seconds": 59.20242691040039,
+    "status": "FEASIBLE",
+    "optimal_cost": 4312.5
+  },
+  "inputs": {
+    "time_configuration": {
+      "demand_start_date": "2026-01-05 00:00:00",
+      "production_start_date": "2026-01-05 00:00:00",
+      "production_end_date": "2026-01-09 00:00:00",
+      "planning_days": 5,
+      "date_span": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "workforce_constraints": {
+      "employee_types": [
+        "UNICEF Fixed term",
+        "Humanizer"
+      ],
+      "active_shifts": [
+        1,
+        3
+      ],
+      "max_hours_per_shift": {
+        "1": 7.5,
+        "2": 7.5,
+        "3": 5.0
+      },
+      "max_hour_per_person_per_day": 14,
+      "fixed_min_unicef_per_day": 2
+    },
+    "production_constraints": {
+      "line_counts": {
+        "6": 3,
+        "7": 2
+      },
+      "max_parallel_workers": {
+        "6": 15,
+        "7": 15
+      }
+    },
+    "demand": {
+      "S7991042": 100,
+      "S7991053": 10,
+      "S7991147": 10,
+      "S7998051": 10,
+      "S9992430": 2,
+      "S9996827": 330,
+      "S9998505": 128,
+      "S9999124": 118,
+      "S9999592": 487,
+      "S9999883": 100,
+      "S9999899": 300,
+      "S9999991": 800,
+      "S9935011": 1600
+    }
+  },
+  "results": {
+    "production": {
+      "total_products_scheduled": 13,
+      "total_units_produced": 3995,
+      "by_product": {
+        "S7991042": {
+          "units_produced": 100,
+          "demand": 100,
+          "fulfillment_rate": 100.0
+        },
+        "S7991053": {
+          "units_produced": 10,
+          "demand": 10,
+          "fulfillment_rate": 100.0
+        },
+        "S7991147": {
+          "units_produced": 10,
+          "demand": 10,
+          "fulfillment_rate": 100.0
+        },
+        "S7998051": {
+          "units_produced": 10,
+          "demand": 10,
+          "fulfillment_rate": 100.0
+        },
+        "S9992430": {
+          "units_produced": 2,
+          "demand": 2,
+          "fulfillment_rate": 100.0
+        },
+        "S9996827": {
+          "units_produced": 330,
+          "demand": 330,
+          "fulfillment_rate": 100.0
+        },
+        "S9998505": {
+          "units_produced": 128,
+          "demand": 128,
+          "fulfillment_rate": 100.0
+        },
+        "S9999124": {
+          "units_produced": 118,
+          "demand": 118,
+          "fulfillment_rate": 100.0
+        },
+        "S9999592": {
+          "units_produced": 487,
+          "demand": 487,
+          "fulfillment_rate": 100.0
+        },
+        "S9999883": {
+          "units_produced": 100,
+          "demand": 100,
+          "fulfillment_rate": 100.0
+        },
+        "S9999899": {
+          "units_produced": 300,
+          "demand": 300,
+          "fulfillment_rate": 100.0
+        },
+        "S9999991": {
+          "units_produced": 800,
+          "demand": 800,
+          "fulfillment_rate": 100.0
+        },
+        "S9935011": {
+          "units_produced": 1600,
+          "demand": 1600,
+          "fulfillment_rate": 100.0
+        }
+      }
+    },
+    "schedule": {
+      "day_1": {
+        "line_1": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_2": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S9935011",
+                "run_hours": 7.500000000000001,
+                "units": 800.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 11
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_3": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 3,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_4": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_5": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        }
+      },
+      "day_2": {
+        "line_1": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_2": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_3": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 3,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_4": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_5": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S9999592",
+                "run_hours": 4.565625,
+                "units": 487.0,
+                "employees": {
+                  "UNICEF Fixed term": 1,
+                  "Humanizer": 4
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        }
+      },
+      "day_3": {
+        "line_1": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_2": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S9999124",
+                "run_hours": 1.1062499999999997,
+                "units": 118.0,
+                "employees": {
+                  "Humanizer": 1
+                }
+              },
+              {
+                "product": "S7991042",
+                "run_hours": 0.6,
+                "units": 64.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S9996827",
+                "run_hours": 3.09375,
+                "units": 330.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S7991147",
+                "run_hours": 0.075,
+                "units": 8.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S9992430",
+                "run_hours": 0.01875,
+                "units": 2.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_3": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 3,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_4": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_5": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        }
+      },
+      "day_4": {
+        "line_1": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S9935011",
+                "run_hours": 7.500000000000001,
+                "units": 800.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 11
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_2": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_3": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 3,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_4": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_5": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        }
+      },
+      "day_5": {
+        "line_1": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S7998051",
+                "run_hours": 0.09375000000000001,
+                "units": 10.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 9
+                }
+              },
+              {
+                "product": "S7991147",
+                "run_hours": 0.01875,
+                "units": 2.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S7991042",
+                "run_hours": 0.33749999999999997,
+                "units": 36.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S9998505",
+                "run_hours": 1.2,
+                "units": 128.0,
+                "employees": {
+                  "UNICEF Fixed term": 1,
+                  "Humanizer": 6
+                }
+              },
+              {
+                "product": "S7991053",
+                "run_hours": 0.09375000000000001,
+                "units": 10.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 5
+                }
+              },
+              {
+                "product": "S9999899",
+                "run_hours": 2.8125,
+                "units": 300.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 7
+                }
+              },
+              {
+                "product": "S9999883",
+                "run_hours": 0.9375000000000001,
+                "units": 100.0,
+                "employees": {
+                  "UNICEF Fixed term": 2,
+                  "Humanizer": 8
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_2": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_3": {
+          "line_type": "Long Line",
+          "line_type_id": 6,
+          "line_idx": 3,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_4": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": [
+              {
+                "product": "S9999991",
+                "run_hours": 7.500000000000001,
+                "units": 800.0,
+                "employees": {
+                  "UNICEF Fixed term": 1,
+                  "Humanizer": 5
+                }
+              }
+            ]
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        },
+        "line_5": {
+          "line_type": "Mini Load",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "shift_1": {
+            "shift_name": "Regular",
+            "products": []
+          },
+          "shift_3": {
+            "shift_name": "Overtime",
+            "products": []
+          }
+        }
+      }
+    },
+    "employee_allocation": {
+      "day_1": {
+        "shift_1": {
+          "shift_name": "Regular",
+          "employees": {
+            "UNICEF Fixed term": {
+              "employee_count": 2,
+              "total_person_hours": 15.000000000000002,
+              "avg_hours_per_employee": 7.500000000000001
+            },
+            "Humanizer": {
+              "employee_count": 11,
+              "total_person_hours": 82.50000000000001,
+              "avg_hours_per_employee": 7.500000000000001
+            }
+          }
+        }
+      },
+      "day_2": {
+        "shift_1": {
+          "shift_name": "Regular",
+          "employees": {
+            "UNICEF Fixed term": {
+              "employee_count": 1,
+              "total_person_hours": 4.565625,
+              "avg_hours_per_employee": 4.565625
+            },
+            "Humanizer": {
+              "employee_count": 4,
+              "total_person_hours": 18.2625,
+              "avg_hours_per_employee": 4.565625
+            }
+          }
+        }
+      },
+      "day_3": {
+        "shift_1": {
+          "shift_name": "Regular",
+          "employees": {
+            "UNICEF Fixed term": {
+              "employee_count": 2,
+              "total_person_hours": 7.575,
+              "avg_hours_per_employee": 3.7875
+            },
+            "Humanizer": {
+              "employee_count": 5,
+              "total_person_hours": 20.04375,
+              "avg_hours_per_employee": 4.00875
+            }
+          }
+        }
+      },
+      "day_4": {
+        "shift_1": {
+          "shift_name": "Regular",
+          "employees": {
+            "UNICEF Fixed term": {
+              "employee_count": 2,
+              "total_person_hours": 15.000000000000002,
+              "avg_hours_per_employee": 7.500000000000001
+            },
+            "Humanizer": {
+              "employee_count": 11,
+              "total_person_hours": 82.50000000000001,
+              "avg_hours_per_employee": 7.500000000000001
+            }
+          }
+        }
+      },
+      "day_5": {
+        "shift_1": {
+          "shift_name": "Regular",
+          "employees": {
+            "UNICEF Fixed term": {
+              "employee_count": 3,
+              "total_person_hours": 17.2875,
+              "avg_hours_per_employee": 5.7625
+            },
+            "Humanizer": {
+              "employee_count": 14,
+              "total_person_hours": 74.98125,
+              "avg_hours_per_employee": 5.355803571428572
+            }
+          }
+        }
+      }
+    },
+    "cost_breakdown": {
+      "by_employee_type": {
+        "UNICEF Fixed term": 937.5,
+        "Humanizer": 3375.0
+      },
+      "by_day": {
+        "day_1": 1012.5,
+        "day_2": 393.75,
+        "day_3": 562.5,
+        "day_4": 1012.5,
+        "day_5": 1331.25
+      },
+      "by_shift": {
+        "Regular": 4312.5,
+        "Overtime": 0
+      },
+      "detailed_costs": [
+        {
+          "day": 1,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "line_name": "Long Line_2",
+          "products": [
+            "S9935011"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 2,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 187.5,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 2,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "line_name": "Mini Load_2",
+          "products": [
+            "S9999592"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 1,
+          "actual_hours": 4.565625,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 93.75,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 3,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "line_name": "Long Line_2",
+          "products": [
+            "S9999124",
+            "S7991042",
+            "S9996827",
+            "S7991147",
+            "S9992430"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 2,
+          "actual_hours": 4.89375,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 187.5,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 4,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "line_name": "Long Line_1",
+          "products": [
+            "S9935011"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 2,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 187.5,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 5,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "line_name": "Long Line_1",
+          "products": [
+            "S7998051",
+            "S7991147",
+            "S7991042",
+            "S9998505",
+            "S7991053",
+            "S9999899",
+            "S9999883"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 2,
+          "actual_hours": 5.49375,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 187.5,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 5,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "line_name": "Mini Load_1",
+          "products": [
+            "S9999991"
+          ],
+          "employee_type": "UNICEF Fixed term",
+          "max_employees_on_line": 1,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 12.5,
+          "cost": 93.75,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 1,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "line_name": "Long Line_2",
+          "products": [
+            "S9935011"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 11,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 825.0,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 2,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 7,
+          "line_idx": 2,
+          "line_name": "Mini Load_2",
+          "products": [
+            "S9999592"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 4,
+          "actual_hours": 4.565625,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 300.0,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 3,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 2,
+          "line_name": "Long Line_2",
+          "products": [
+            "S9999124",
+            "S7991042",
+            "S9996827",
+            "S7991147",
+            "S9992430"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 5,
+          "actual_hours": 4.89375,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 375.0,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 4,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "line_name": "Long Line_1",
+          "products": [
+            "S9935011"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 11,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 825.0,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 5,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 6,
+          "line_idx": 1,
+          "line_name": "Long Line_1",
+          "products": [
+            "S7998051",
+            "S7991147",
+            "S7991042",
+            "S9998505",
+            "S7991053",
+            "S9999899",
+            "S9999883"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 9,
+          "actual_hours": 5.49375,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 675.0,
+          "payment_mode": "bulk"
+        },
+        {
+          "day": 5,
+          "shift": 1,
+          "shift_name": "Regular",
+          "line_type_id": 7,
+          "line_idx": 1,
+          "line_name": "Mini Load_1",
+          "products": [
+            "S9999991"
+          ],
+          "employee_type": "Humanizer",
+          "max_employees_on_line": 5,
+          "actual_hours": 7.500000000000001,
+          "paid_hours": 7.5,
+          "hourly_rate": 10.0,
+          "cost": 375.0,
+          "payment_mode": "bulk"
+        }
+      ]
+    },
+    "summary": {
+      "total_products": 13,
+      "products_with_production": 13,
+      "total_demand": 3995,
+      "total_production": 3995,
+      "demand_fulfillment_rate": 100.0
+    }
+  }
+}

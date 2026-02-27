@@ -1,0 +1,37 @@
+# docker-compose.yml
+# Supply Roster Optimization Tool - Docker Compose Configuration
+
+services:
+  supply-roster-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: supply-roster-optimization
+    ports:
+      - "8501:8501"
+    volumes:
+      # Data folder mount (for persistent data access)
+      - ./data:/app/data
+      # Uncomment below for development (live code reload)
+      # - ./src:/app/src
+      # - ./ui:/app/ui
+    environment:
+      - PYTHONUNBUFFERED=1
+      - STREAMLIT_SERVER_HEADLESS=true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    # Optional: Resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
+

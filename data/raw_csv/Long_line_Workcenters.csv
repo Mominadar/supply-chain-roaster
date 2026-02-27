@@ -1,0 +1,9 @@
+Delivery / Kit order,# of Sets/Kits,# of Materials,Instructions,Status LLA,Status LLB,Active,Pending Line clearing,Est. Volume,Est. Weight,# SU,Transport,Priority,Shipping Point,Destination,Incomplete,Scope,Status Reservation,Amount,ReservedAmount,PickedAmount,Haz. Material
+100034791,900,8,NO,B,,Yes,No,106,21731,35,SEA,4,1999,Denmark,No,--,--,--,0,0,No
+100034003,800,7,NO,A,A,No,No,47,10135,33,SEA,4,1999,Denmark,No,--,--,--,0,0,No
+100034803,900,8,NO,A,,No,No,94,20239,85,SEA,4,1999,Denmark,No,--,--,--,0,0,No
+100034436,60,4,NO,,B,Yes,No,8,1671,11,SEA,5,1999,Denmark,No,--,--,--,0,0,No
+100034017,800,7,NO,A,A,No,No,47,10120,36,SEA,5,1999,Denmark,No,--,--,--,0,0,No
+100035005,100,5,NO,,A,No,No,39,2348,24,SEA,5,1999,Denmark,No,--,--,--,0,0,No
+100034814,900,8,NO,B,,No,No,64,13017,58,SEA,5,1999,Denmark,No,--,--,--,0,0,No
+100034626,180,10,NO,A,,No,No,44,3964,38,SEA,5,1999,Denmark,No,--,--,--,0,0,No

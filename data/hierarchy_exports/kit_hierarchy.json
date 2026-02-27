@@ -1,0 +1,2944 @@
+{
+    "S9901040": {
+        "name": "IEHK 2024,Basic Medicine&Renewable UNIT",
+        "type": "master",
+        "subkits": {
+            "S9991041": {
+                "name": "IEHK 2024,Basic Medicine&Renewabl SUB1/3",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991044"
+                ],
+                "dependencies": [
+                    "S9991044"
+                ]
+            },
+            "S9991042": {
+                "name": "IEHK 2024,Basic Medicine&Renewabl SUB2/3",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991045"
+                ],
+                "dependencies": [
+                    "S9991045"
+                ]
+            },
+            "S9991043": {
+                "name": "IEHK 2024,Basic Medicine&Renewabl SUB3/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9991041",
+            "S9991042",
+            "S9991043"
+        ]
+    },
+    "S9901041": {
+        "name": "IEHK 2024,Basic Malaria UNIT",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9901042": {
+        "name": "IEHK 2024,Basic Equipment UNIT",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9991046"
+        ],
+        "direct_prepacks": [
+            "S9991046"
+        ]
+    },
+    "S9901043": {
+        "name": "IEHK 2024,Suppl. Medicine Oral UNIT",
+        "type": "master",
+        "subkits": {
+            "S9991141": {
+                "name": "SUB 1/4 IEHK 2024,Suppl.Medicine Oral",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991142": {
+                "name": "SUB 2/4 IEHK 2024,Suppl.Medicine Oral",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991143": {
+                "name": "SUB 3/4 IEHK 2024,Suppl.Medicine Oral",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991144": {
+                "name": "SUB 4/4 IEHK 2024,Suppl.Medicine Oral",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9991141",
+            "S9991142",
+            "S9991143",
+            "S9991144"
+        ]
+    },
+    "S9901045": {
+        "name": "IEHK 2024,Suppl. Med Mental Health UNIT",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9901047": {
+        "name": "IEHK 2024,Suppl Medicine Cold Chain UNIT",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9901048": {
+        "name": "IEHK 2024,Suppl. Malaria UNIT",
+        "type": "master",
+        "subkits": {
+            "S9991048": {
+                "name": "IEHK 2024,Suppl. Malaria UNIT SUB 1/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991049": {
+                "name": "IEHK 2024,Suppl. Malaria UNIT SUB 2/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991050": {
+                "name": "IEHK 2024,Suppl. Malaria UNIT SUB 3/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991051": {
+                "name": "IEHK 2024,Suppl. Malaria UNIT SUB 4/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9991048",
+            "S9991049",
+            "S9991050",
+            "S9991051"
+        ]
+    },
+    "S9901049": {
+        "name": "IEHK 2024,Suppl. PEP Unit",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9994921",
+            "S9994922",
+            "S9994923"
+        ],
+        "direct_prepacks": [
+            "S9994921",
+            "S9994922",
+            "S9994923"
+        ]
+    },
+    "S9902217": {
+        "name": "Midwifery kit,1-drugs",
+        "type": "master",
+        "subkits": {
+            "S9999841": {
+                "name": "Subkit 1/4 S9902217 Midwifery kit,1-drug",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999842": {
+                "name": "Subkit 2/4 S9902217 Midwifery kit,1-drug",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999843": {
+                "name": "Subkit 3/4 S9902217 Midwifery kit,1-drug",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999844": {
+                "name": "Subkit 4/4 S9902217 Midwifery kit,1-drug",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999841",
+            "S9999842",
+            "S9999843",
+            "S9999844"
+        ]
+    },
+    "S9902219": {
+        "name": "Midwifery kit,3-renewable",
+        "type": "master",
+        "subkits": {
+            "S9999898": {
+                "name": "Subkit 1/2 Midwifery ,3-renew S9902219",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999941",
+                    "S9999942",
+                    "S9999940"
+                ],
+                "dependencies": [
+                    "S9999941",
+                    "S9999942",
+                    "S9999940"
+                ]
+            },
+            "S9999899": {
+                "name": "Subkit 2/2 Midwifery ,3-renew S9902219",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999898",
+            "S9999899"
+        ]
+    },
+    "S9902220": {
+        "name": "Midwifery kit,suppl.1a-drugs",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9902221": {
+        "name": "Midwifery kit \u0096 equipment, 2",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999957"
+        ],
+        "direct_prepacks": [
+            "S9999957"
+        ]
+    },
+    "S9902302": {
+        "name": "Nigeria Kit 2017",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999151",
+            "S9999153",
+            "S9999154"
+        ],
+        "direct_prepacks": [
+            "S9999151",
+            "S9999153",
+            "S9999154"
+        ]
+    },
+    "S9902410": {
+        "name": "NBK,Community,Part B, Module 1,Medicines",
+        "type": "master",
+        "subkits": {
+            "S9992416": {
+                "name": "SUB 1/3 NBK,Community,Part B,Module1,Med",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992412": {
+                "name": "SUB 2/3 NBK,Community,Part B,Module1,Med",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992413": {
+                "name": "SUB 3/3 NBK,Community,Part B,Module1,Med",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992416",
+            "S9992412",
+            "S9992413"
+        ]
+    },
+    "S9902600": {
+        "name": "Clean Delivery Kit",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9902420": {
+        "name": "NBK,Community,Part B, Module 2,Equipment",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9902430": {
+        "name": "NBK, Clinic, Module 1, Medicines",
+        "type": "master",
+        "subkits": {
+            "S9992431": {
+                "name": "SUB 1/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992432": {
+                "name": "SUB 2/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992433": {
+                "name": "SUB 3/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992434": {
+                "name": "SUB 4/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992435": {
+                "name": "SUB 5/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992436": {
+                "name": "SUB 6/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992437": {
+                "name": "SUB 7/8 NBK, Clinic, Module 1, Medicines",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992438": {
+                "name": "S9902430  8/8 NBK,Clinic,Mod part 8-40",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992431",
+            "S9992432",
+            "S9992433",
+            "S9992434",
+            "S9992435",
+            "S9992436",
+            "S9992437",
+            "S9992438"
+        ]
+    },
+    "S9902440": {
+        "name": "NBK, Clinic, Module 2, Consumables",
+        "type": "master",
+        "subkits": {
+            "S9992441": {
+                "name": "SUB 1/3 NBK, Clinic,Module 2,Consumables",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992442": {
+                "name": "SUB 2/3 NBK, Clinic,Module 2,Consumables",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992443": {
+                "name": "SUB 3/3 NBK, Clinic,Module 2,Consumables",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992441",
+            "S9992442",
+            "S9992443"
+        ]
+    },
+    "S9902450": {
+        "name": "NBK, Clinic, Module 3, Equipment",
+        "type": "master",
+        "subkits": {
+            "S9992451": {
+                "name": "SUB 1/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [
+                    "S9992450"
+                ],
+                "dependencies": [
+                    "S9992450"
+                ]
+            },
+            "S9992452": {
+                "name": "SUB 2/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992453": {
+                "name": "SUB 3/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992454": {
+                "name": "SUB 4/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992458": {
+                "name": "SUB 5/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992457": {
+                "name": "SUB 6/6 NBK, Clinic, Module 3, Equipment",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992451",
+            "S9992452",
+            "S9992453",
+            "S9992454",
+            "S9992458",
+            "S9992457"
+        ]
+    },
+    "S9902470": {
+        "name": "NBK, Hospital, Module 2, Consumables",
+        "type": "master",
+        "subkits": {
+            "S9992470": {
+                "name": "SUB 1/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [
+                    "S9992414",
+                    "S9992415"
+                ],
+                "dependencies": [
+                    "S9992414",
+                    "S9992415"
+                ]
+            },
+            "S9992471": {
+                "name": "SUB 2/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992472": {
+                "name": "SUB 3/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992473": {
+                "name": "SUB 4/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992474": {
+                "name": "SUB 5/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992475": {
+                "name": "SUB 6/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992476": {
+                "name": "SUB 7/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992477": {
+                "name": "SUB 8/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992478": {
+                "name": "SUB 9/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992479": {
+                "name": "SUB 10/10 NBK, Hospital,Module 2,Consum",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992470",
+            "S9992471",
+            "S9992472",
+            "S9992473",
+            "S9992474",
+            "S9992475",
+            "S9992476",
+            "S9992477",
+            "S9992478",
+            "S9992479"
+        ]
+    },
+    "S9902480": {
+        "name": "NBK, Hospital, Module 3, Equipment",
+        "type": "master",
+        "subkits": {
+            "S9992481": {
+                "name": "SUB 1/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992586": {
+                "name": "SUB 2/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992483": {
+                "name": "SUB 3/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [
+                    "S9992480"
+                ],
+                "dependencies": [
+                    "S9992480"
+                ]
+            },
+            "S9992484": {
+                "name": "SUB 4/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992589": {
+                "name": "SUB 5/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992583": {
+                "name": "SUB 6/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992588": {
+                "name": "SUB 7/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992488": {
+                "name": "SUB 8/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992489": {
+                "name": "SUB 9/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992459": {
+                "name": "SUB 11/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992587": {
+                "name": "SUB 12/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992493": {
+                "name": "SUB 13/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992494": {
+                "name": "SUB 14/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992495": {
+                "name": "SUB 15/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992496": {
+                "name": "SUB 16/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992497": {
+                "name": "SUB 17/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992490": {
+                "name": "SUB 10/17 NBK, Hospital, Module 3, Equ",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992481",
+            "S9992586",
+            "S9992483",
+            "S9992484",
+            "S9992589",
+            "S9992583",
+            "S9992588",
+            "S9992488",
+            "S9992489",
+            "S9992459",
+            "S9992587",
+            "S9992493",
+            "S9992494",
+            "S9992495",
+            "S9992496",
+            "S9992497",
+            "S9992490"
+        ]
+    },
+    "S9903000": {
+        "name": "AWD, Community kit, Community Care",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999129"
+        ],
+        "direct_prepacks": [
+            "S9999129"
+        ]
+    },
+    "S9903001": {
+        "name": "AWD Kit, Periphery kit, Logistics Part",
+        "type": "master",
+        "subkits": {
+            "S9999131": {
+                "name": "Sub 1/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999132": {
+                "name": "Sub 2/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999133": {
+                "name": "Sub 3/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999134": {
+                "name": "Sub 4/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999135": {
+                "name": "Sub 5/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999136": {
+                "name": "Sub 6/6 AWD Kit, Periphery kit,Logistics",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999131",
+            "S9999132",
+            "S9999133",
+            "S9999134",
+            "S9999135",
+            "S9999136"
+        ]
+    },
+    "S9903002": {
+        "name": "AWD, Periphery kit, Equipment",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9903002",
+            "S9999147"
+        ],
+        "direct_prepacks": [
+            "S9903002",
+            "S9999147"
+        ]
+    },
+    "S9903003": {
+        "name": "AWD, Periphery kit, Renewable",
+        "type": "master",
+        "subkits": {
+            "S9999144": {
+                "name": "AWD SUB 1/3 Periphery,Renewable",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999149"
+                ],
+                "dependencies": [
+                    "S9999149"
+                ]
+            },
+            "S9999145": {
+                "name": "AWD SUB 2/3 Periphery,Renewable",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999143",
+                    "S9999138",
+                    "S9999137"
+                ],
+                "dependencies": [
+                    "S9999143",
+                    "S9999138",
+                    "S9999137"
+                ]
+            },
+            "S9999146": {
+                "name": "AWD SUB 3/3 Periphery,Renewable",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999144",
+            "S9999145",
+            "S9999146"
+        ]
+    },
+    "S9903004": {
+        "name": "AWD Periphery kit Drug",
+        "type": "master",
+        "subkits": {
+            "S9999124": {
+                "name": "AWD Periphery kit Drug S9903004",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999125": {
+                "name": "AWD Periphery kit Drug S9903004 sub 2/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999126": {
+                "name": "AWD Periphery kit Drug S9903004 sub 3/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999127": {
+                "name": "AWD Periphery kit Drug S9903004 sub 4/4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999124",
+            "S9999125",
+            "S9999126",
+            "S9999127"
+        ]
+    },
+    "S9903005": {
+        "name": "AWD Community Kit Drug",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9906706": {
+        "name": "Ethiopia Midwifery kit 3-renew",
+        "type": "master",
+        "subkits": {
+            "S9999701": {
+                "name": "Subkit 1/2 Ethiopia Midwifery,S9906706",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999703",
+                    "S9999704",
+                    "S9999705"
+                ],
+                "dependencies": [
+                    "S9999703",
+                    "S9999704",
+                    "S9999705"
+                ]
+            },
+            "S9999702": {
+                "name": "Subkit 2/2 Ethiopia Midwifery,S9906706",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999299"
+                ],
+                "dependencies": [
+                    "S9999299"
+                ]
+            }
+        },
+        "dependencies": [
+            "S9999701",
+            "S9999702"
+        ]
+    },
+    "S9906708": {
+        "name": "Ethiopia IEHK2011,kit,suppl.3-renew",
+        "type": "master",
+        "subkits": {
+            "S9999721": {
+                "name": "Subkit 1/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999728"
+                ],
+                "dependencies": [
+                    "S9999728"
+                ]
+            },
+            "S9999722": {
+                "name": "Subkit 2/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999723": {
+                "name": "Subkit 3/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999724": {
+                "name": "Subkit 4/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999725": {
+                "name": "Subkit 5/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999726": {
+                "name": "Subkit 6/6 Ethiopia IEHK renew S9906708",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999729"
+                ],
+                "dependencies": [
+                    "S9999729"
+                ]
+            }
+        },
+        "dependencies": [
+            "S9999721",
+            "S9999722",
+            "S9999723",
+            "S9999724",
+            "S9999725",
+            "S9999726"
+        ]
+    },
+    "S9906710": {
+        "name": "Ethiopia Emergency Drug kit 2019",
+        "type": "master",
+        "subkits": {
+            "S9996710": {
+                "name": "SUB 1/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [
+                    "S9986712",
+                    "S9986711"
+                ],
+                "dependencies": [
+                    "S9986712",
+                    "S9986711"
+                ]
+            },
+            "S9996711": {
+                "name": "SUB 2/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [
+                    "S9986711",
+                    "S9986713",
+                    "S9986714",
+                    "S9986715"
+                ],
+                "dependencies": [
+                    "S9986711",
+                    "S9986713",
+                    "S9986714",
+                    "S9986715"
+                ]
+            },
+            "S9996712": {
+                "name": "SUB 3/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996713": {
+                "name": "SUB 4/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996714": {
+                "name": "SUB 5/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996715": {
+                "name": "SUB 6/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996716": {
+                "name": "SUB 7/7 Ethiopia Emerg. kit2019 S9906710",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996710",
+            "S9996711",
+            "S9996712",
+            "S9996713",
+            "S9996714",
+            "S9996715",
+            "S9996716"
+        ]
+    },
+    "S9906712": {
+        "name": "SD, Primary Healthcare kit, 2016",
+        "type": "master",
+        "subkits": {
+            "S9999491": {
+                "name": "Sub 1/4, SD SD,Primary Healthcare2016",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999494",
+                    "S9999495",
+                    "S9999496"
+                ],
+                "dependencies": [
+                    "S9999494",
+                    "S9999495",
+                    "S9999496"
+                ]
+            },
+            "S9999492": {
+                "name": "Sub 2/4 , SD Primary Healthcare2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999493": {
+                "name": "Sub 3/4 , SD Primary Healthcare2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999490": {
+                "name": "Sub 4/4 SD Primary Healthcare2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999491",
+            "S9999492",
+            "S9999493",
+            "S9999490"
+        ]
+    },
+    "S9906713": {
+        "name": "Sudan, IMCI Medicine kit, 2016",
+        "type": "master",
+        "subkits": {
+            "S9999505": {
+                "name": "Sub 1/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999506": {
+                "name": "Sub 2/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999503"
+                ],
+                "dependencies": [
+                    "S9999503"
+                ]
+            },
+            "S9999507": {
+                "name": "Sub 3/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999504"
+                ],
+                "dependencies": [
+                    "S9999504"
+                ]
+            },
+            "S9998505": {
+                "name": "Sub 4/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9998506": {
+                "name": "Sub 5/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9998507": {
+                "name": "Sub 6/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9998508": {
+                "name": "Sub 7/7 SD IMCI Med. kit, 2016",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999505",
+            "S9999506",
+            "S9999507",
+            "S9998505",
+            "S9998506",
+            "S9998507",
+            "S9998508"
+        ]
+    },
+    "S9906714": {
+        "name": "Sudan Community Midwife kit, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999501",
+            "S9999502",
+            "S9999500"
+        ],
+        "direct_prepacks": [
+            "S9999501",
+            "S9999502",
+            "S9999500"
+        ]
+    },
+    "S9906719": {
+        "name": "DPRK EM Kit 2018",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999819",
+            "S9999820"
+        ],
+        "direct_prepacks": [
+            "S9999819",
+            "S9999820"
+        ]
+    },
+    "S9906728": {
+        "name": "DRC Health Centre kit 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999707",
+            "S9999708",
+            "S9999709",
+            "S9999710",
+            "S9999706"
+        ],
+        "direct_prepacks": [
+            "S9999707",
+            "S9999708",
+            "S9999709",
+            "S9999710",
+            "S9999706"
+        ]
+    },
+    "S9910001": {
+        "name": "Surg.inst.,basic surgery /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9910003": {
+        "name": "Surg.inst.,delivery /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9910005": {
+        "name": "Surg.inst.,dressing /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9906729": {
+        "name": "DRC Measles Kit 2021",
+        "type": "master",
+        "subkits": {
+            "S9996721": {
+                "name": "DRC Measles Kit 2021 SUB 1/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996722": {
+                "name": "DRC Measles Kit 2021 SUB 2/5",
+                "type": "subkit",
+                "prepacks": [
+                    "S9996726"
+                ],
+                "dependencies": [
+                    "S9996726"
+                ]
+            },
+            "S9996723": {
+                "name": "DRC Measles Kit 2021 SUB 3/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996724": {
+                "name": "DRC Measles Kit 2021 SUB 4/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996725": {
+                "name": "DRC Measles Kit 2021 SUB 5/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996721",
+            "S9996722",
+            "S9996723",
+            "S9996724",
+            "S9996725"
+        ]
+    },
+    "S9906731": {
+        "name": "DPRK HHD Kit Refill 2018",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999921",
+            "S9999922"
+        ],
+        "direct_prepacks": [
+            "S9999921",
+            "S9999922"
+        ]
+    },
+    "S9906732": {
+        "name": "DPRK Household Doctors Kit 2018",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999921",
+            "S9999922",
+            "S9999920"
+        ],
+        "direct_prepacks": [
+            "S9999921",
+            "S9999922",
+            "S9999920"
+        ]
+    },
+    "S9906733": {
+        "name": "South Sudan PHCC Kit 2018 Basic Medicin",
+        "type": "master",
+        "subkits": {
+            "S9993731": {
+                "name": "SUB 1/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [
+                    "S9993736",
+                    "S9993737"
+                ],
+                "dependencies": [
+                    "S9993736",
+                    "S9993737"
+                ]
+            },
+            "S9993732": {
+                "name": "SUB 2/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [
+                    "S9993739"
+                ],
+                "dependencies": [
+                    "S9993739"
+                ]
+            },
+            "S9993733": {
+                "name": "SUB 3/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [
+                    "S9993738"
+                ],
+                "dependencies": [
+                    "S9993738"
+                ]
+            },
+            "S9993734": {
+                "name": "SUB 4/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [
+                    "S9993730"
+                ],
+                "dependencies": [
+                    "S9993730"
+                ]
+            },
+            "S9993735": {
+                "name": "SUB 5/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9993840": {
+                "name": "SUB 6/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9993841": {
+                "name": "SUB 7/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9993842": {
+                "name": "SUB 8/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9993843": {
+                "name": "SUB 9/9 S.Sudan PHCC18  B.Med S9906733",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9993731",
+            "S9993732",
+            "S9993733",
+            "S9993734",
+            "S9993735",
+            "S9993840",
+            "S9993841",
+            "S9993842",
+            "S9993843"
+        ]
+    },
+    "S9906734": {
+        "name": "South Sudan, PHCU Kit 2018",
+        "type": "master",
+        "subkits": {
+            "S9994731": {
+                "name": "Sub1/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994732": {
+                "name": "Sub2/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [
+                    "S9994735",
+                    "S9994736"
+                ],
+                "dependencies": [
+                    "S9994735",
+                    "S9994736"
+                ]
+            },
+            "S9994733": {
+                "name": "Sub3/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [
+                    "S9994737"
+                ],
+                "dependencies": [
+                    "S9994737"
+                ]
+            },
+            "S9994734": {
+                "name": "Sub4/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994730": {
+                "name": "Sub5/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994739": {
+                "name": "Sub6/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994831": {
+                "name": "Sub7/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994832": {
+                "name": "Sub8/8 South Sudan,PHCU Kit2018 S9906734",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9994738": {
+                "name": "PP4/4 f Sub4/4 S.Sudan,PHCU Kit S9906734",
+                "type": "subkit",
+                "prepacks": [
+                    "S9994738"
+                ],
+                "dependencies": [
+                    "S9994738"
+                ]
+            }
+        },
+        "dependencies": [
+            "S9994731",
+            "S9994732",
+            "S9994733",
+            "S9994734",
+            "S9994730",
+            "S9994739",
+            "S9994831",
+            "S9994832",
+            "S9994738"
+        ]
+    },
+    "S9906735": {
+        "name": "South Sudan PHCC Kit 2018-Injectables",
+        "type": "master",
+        "subkits": {
+            "S9995731": {
+                "name": "SUB 1/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995732": {
+                "name": "SUB 2/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995733": {
+                "name": "SUB 3/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995734": {
+                "name": "SUB 4/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995735": {
+                "name": "SUB 5/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995736": {
+                "name": "SUB 6/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995737": {
+                "name": "SUB 7/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995738": {
+                "name": "SUB 8/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9995739": {
+                "name": "SUB 9/9 SSPHCC Kit 2018-Injecta S9906735",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9995731",
+            "S9995732",
+            "S9995733",
+            "S9995734",
+            "S9995735",
+            "S9995736",
+            "S9995737",
+            "S9995738",
+            "S9995739"
+        ]
+    },
+    "S9906736": {
+        "name": "South Sudan PHCC Kit 2018- IV infusions",
+        "type": "master",
+        "subkits": {
+            "S9996731": {
+                "name": "S. Sudan PHCC 2018 I sub 1/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996732": {
+                "name": "S. Sudan PHCC 2018 I sub 2/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996733": {
+                "name": "S. Sudan PHCC 2018 I sub 3/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996734": {
+                "name": "S. Sudan PHCC 2018 I sub 4/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996735": {
+                "name": "S. Sudan PHCC 2018 I sub 5/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996736": {
+                "name": "S. Sudan PHCC 2018 I sub 6/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996737": {
+                "name": "S. Sudan PHCC 2018 I sub 7/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996738": {
+                "name": "S. Sudan PHCC 2018 I sub 8/8 f S9906736",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996731",
+            "S9996732",
+            "S9996733",
+            "S9996734",
+            "S9996735",
+            "S9996736",
+            "S9996737",
+            "S9996738"
+        ]
+    },
+    "S9906737": {
+        "name": "South Sudan PHCC Kit 2018-Med Dev & Diag",
+        "type": "master",
+        "subkits": {
+            "S9997731": {
+                "name": "SUB 1/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [
+                    "S9997739",
+                    "S9997730"
+                ],
+                "dependencies": [
+                    "S9997739",
+                    "S9997730"
+                ]
+            },
+            "S9997732": {
+                "name": "SUB 2/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997733": {
+                "name": "SUB 3/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997734": {
+                "name": "SUB 4/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997735": {
+                "name": "SUB 5/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997736": {
+                "name": "SUB 6/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997737": {
+                "name": "SUB 7/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9997738": {
+                "name": "SUB 8/8 SSPHCC2018-Med Dev&Diag S9906737",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9997731",
+            "S9997732",
+            "S9997733",
+            "S9997734",
+            "S9997735",
+            "S9997736",
+            "S9997737",
+            "S9997738"
+        ]
+    },
+    "S9906742": {
+        "name": "Mozambique Community Health Worker Kit",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999150"
+        ],
+        "direct_prepacks": [
+            "S9999150"
+        ]
+    },
+    "S9906753": {
+        "name": "Nut kit,Inpatient, Ethiop.Mod. Med. Supp",
+        "type": "master",
+        "subkits": {
+            "S9996752": {
+                "name": "SUB1/2 Nut kit,I Ethiop.Mod F S9906753",
+                "type": "subkit",
+                "prepacks": [
+                    "S9996751"
+                ],
+                "dependencies": [
+                    "S9996751"
+                ]
+            },
+            "S9996753": {
+                "name": "SUB2/2 Nut kit,I Ethiop.Mod F S9906753",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996752",
+            "S9996753"
+        ]
+    },
+    "S9906754": {
+        "name": "Nutrition Kit, Anthropometric. ETH",
+        "type": "master",
+        "subkits": {
+            "S9996755": {
+                "name": "SUB 2/2 S9906754 Nut,Anthropometric. ETH",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996754": {
+                "name": "SUB 1/2 S9906754 Nut,Anthropometric. ETH",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996755",
+            "S9996754"
+        ]
+    },
+    "S9906791": {
+        "name": "Mali, in-patient CMAM kit, version 2014",
+        "type": "master",
+        "subkits": {
+            "S9999751": {
+                "name": "Subkit 1/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999691",
+                    "S9999692"
+                ],
+                "dependencies": [
+                    "S9999691",
+                    "S9999692"
+                ]
+            },
+            "S9999752": {
+                "name": "Subkit 2/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999693"
+                ],
+                "dependencies": [
+                    "S9999693"
+                ]
+            },
+            "S9999753": {
+                "name": "Subkit 3/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999694"
+                ],
+                "dependencies": [
+                    "S9999694"
+                ]
+            },
+            "S9999754": {
+                "name": "Subkit 4/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999755": {
+                "name": "Subkit 5/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999756": {
+                "name": "Subkit 6/6 Mali, in-patient CMAM kit",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999751",
+            "S9999752",
+            "S9999753",
+            "S9999754",
+            "S9999755",
+            "S9999756"
+        ]
+    },
+    "S9906797": {
+        "name": "Ethiopia Midwifery kit,2-equipment V2",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999760",
+            "S9999603",
+            "S9999604"
+        ],
+        "direct_prepacks": [
+            "S9999760",
+            "S9999603",
+            "S9999604"
+        ]
+    },
+    "S9999604": {
+        "name": "Ethiopia Surg.inst.,suture /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9999603": {
+        "name": "Ethiopia Surg.inst.,delivery /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9906800": {
+        "name": "Yemen Primary Health Kit 2021-Basic meds",
+        "type": "master",
+        "subkits": {
+            "S9986721": {
+                "name": "SUB 1/3  Yemen PHK 2021-Basic S9906800",
+                "type": "subkit",
+                "prepacks": [
+                    "S9986716"
+                ],
+                "dependencies": [
+                    "S9986716"
+                ]
+            },
+            "S9986722": {
+                "name": "SUB 2/3  Yemen PHK 2021-Basic S9906800",
+                "type": "subkit",
+                "prepacks": [
+                    "S9986716",
+                    "S9986717",
+                    "S9986710"
+                ],
+                "dependencies": [
+                    "S9986716",
+                    "S9986717",
+                    "S9986710"
+                ]
+            },
+            "S9986723": {
+                "name": "SUB 3/3  Yemen PHK 2021-Basic S9906800",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9986721",
+            "S9986722",
+            "S9986723"
+        ]
+    },
+    "S9906801": {
+        "name": "Yemen Primary Health Kit2021-consumables",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9906802": {
+        "name": "Yemen Primary Health Kit 2021-Suppl meds",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9986718",
+            "S9986719"
+        ],
+        "direct_prepacks": [
+            "S9986718",
+            "S9986719"
+        ]
+    },
+    "S9908200": {
+        "name": "Sterilization, kit C",
+        "type": "master",
+        "subkits": {
+            "S9999923": {
+                "name": "Subkit 1/2 Sterilization, kit C S9908200",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999924": {
+                "name": "Subkit 2/2 Sterilization, kit C S9908200",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999923",
+            "S9999924"
+        ]
+    },
+    "S9908300": {
+        "name": "Obstetric,surgical kit,suppl.1-drugs",
+        "type": "master",
+        "subkits": {
+            "S9999995": {
+                "name": "Sub 1/10 Obstetric S9908300(i) part 1",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999944",
+                    "S9999945"
+                ],
+                "dependencies": [
+                    "S9999944",
+                    "S9999945"
+                ]
+            },
+            "S9999994": {
+                "name": "Sub 2/10 Obstetric S9908300(i) part 2",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999993": {
+                "name": "Sub 3/10 Obstetric S9908300(i) part 3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999975": {
+                "name": "Sub 4/10 Obstetric S9908300(i) part 4",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999973": {
+                "name": "Sub 5/10 Obstetric S9908300(i) part 5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999972": {
+                "name": "Sub 6/10 Obstetric S9908300(i) part 6",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999976": {
+                "name": "Sub 7/10 Obstetric S9908300(i) part 7",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999977": {
+                "name": "Sub 8/10 Obstetric S9908300(i) part 8",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999971": {
+                "name": "Sub 9/10 Obstetric S9908300(i) part 9",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999974": {
+                "name": "Sub 10/10 Obstetric S9908300 part 10-42",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999995",
+            "S9999994",
+            "S9999993",
+            "S9999975",
+            "S9999973",
+            "S9999972",
+            "S9999976",
+            "S9999977",
+            "S9999971",
+            "S9999974"
+        ]
+    },
+    "S9908302": {
+        "name": "Obstetric,surgical kit,suppl.3-renewable",
+        "type": "master",
+        "subkits": {
+            "S9999881": {
+                "name": "Subkit 1/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999882": {
+                "name": "Subkit 2/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999883": {
+                "name": "Subkit 3/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999938"
+                ],
+                "dependencies": [
+                    "S9999938"
+                ]
+            },
+            "S9999884": {
+                "name": "Subkit 4/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999939",
+                    "S9999299"
+                ],
+                "dependencies": [
+                    "S9999939",
+                    "S9999299"
+                ]
+            },
+            "S9999885": {
+                "name": "Subkit 5/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9999886": {
+                "name": "Subkit 6/6 Obstetric 3-renew.S9908302",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9999881",
+            "S9999882",
+            "S9999883",
+            "S9999884",
+            "S9999885",
+            "S9999886"
+        ]
+    },
+    "S9908303": {
+        "name": "Obstetric,surgical kit,suppl.1a-drugs",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9908305": {
+        "name": "Obstetric,surgical kit,suppl.2-equipment",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9910000",
+            "S9910006",
+            "S9910002",
+            "S9999857",
+            "S9999858",
+            "S9999859"
+        ],
+        "direct_prepacks": [
+            "S9910000",
+            "S9910006",
+            "S9910002",
+            "S9999857",
+            "S9999858",
+            "S9999859"
+        ]
+    },
+    "S9908402": {
+        "name": "Resuscitation kit,basic",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999861",
+            "S9999862"
+        ],
+        "direct_prepacks": [
+            "S9999861",
+            "S9999862"
+        ]
+    },
+    "S9910000": {
+        "name": "Surg.inst.,abdominal /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9910002": {
+        "name": "Surg.inst.,curettage /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9910004": {
+        "name": "Surg.inst.,suture /SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9910006": {
+        "name": "Surg.inst.,exam/sut,vaginal/cervical/SET",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9935011": {
+        "name": "School-in-a-carton,40 students, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999991",
+            "S9999989"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999991",
+            "S9999989"
+        ]
+    },
+    "S9935019": {
+        "name": "School-in-a-bag kit,40 student,1 teacher",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999933"
+        ],
+        "direct_prepacks": [
+            "S9999933"
+        ]
+    },
+    "S9935024": {
+        "name": "Recreation kit, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999986"
+        ],
+        "direct_prepacks": [
+            "S9999986"
+        ]
+    },
+    "S9935030": {
+        "name": "Recreation kit mini version",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9935034": {
+        "name": "Recreation kit-in-a-carton, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999986"
+        ],
+        "direct_prepacks": [
+            "S9999986"
+        ]
+    },
+    "S9935051": {
+        "name": "School-in-a-carton, Yemen",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ]
+    },
+    "S9935064": {
+        "name": "Early Childhood Dvt (ECD) kit, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999987"
+        ],
+        "direct_prepacks": [
+            "S9999987"
+        ]
+    },
+    "S9935065": {
+        "name": "ECD kit-in-a-carton, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999987"
+        ],
+        "direct_prepacks": [
+            "S9999987"
+        ]
+    },
+    "S9935080": {
+        "name": "Arabic Student Kit Grade 1-4",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9935081": {
+        "name": "Arabic Student Kit Grade 5-8",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9935082": {
+        "name": "Arabic Teacher's Kit",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9935084": {
+        "name": "Syria Emergency School in a Carton Kit",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999979"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999979"
+        ]
+    },
+    "S9935090": {
+        "name": "Syria Paediatric Kit, 2019",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999591",
+            "S9999592",
+            "S9999593"
+        ],
+        "direct_prepacks": [
+            "S9999591",
+            "S9999592",
+            "S9999593"
+        ]
+    },
+    "S9935095": {
+        "name": "Replenishment kit for School-in-a-box",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999979"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999979"
+        ]
+    },
+    "S9935097": {
+        "name": "School-in-a-box,40 students, 2016",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999991",
+            "S9999989"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999991",
+            "S9999989"
+        ]
+    },
+    "S9935099": {
+        "name": "Extra materials for School-in-a-box",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990"
+        ],
+        "direct_prepacks": [
+            "S9999990"
+        ]
+    },
+    "S9935100": {
+        "name": "School-in-a-carton, Ukraine",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ]
+    },
+    "S9935101": {
+        "name": "School-in-a-box, Ukraine",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ],
+        "direct_prepacks": [
+            "S9999990",
+            "S9999199",
+            "S9999989"
+        ]
+    },
+    "S9975020": {
+        "name": "First aid kit class A",
+        "type": "master",
+        "subkits": {},
+        "dependencies": [
+            "S9999992"
+        ],
+        "direct_prepacks": [
+            "S9999992"
+        ]
+    },
+    "S7901051": {
+        "name": "ECHO IEHK 2024,Suppl Equipment UNIT",
+        "type": "master",
+        "subkits": {
+            "S7998051": {
+                "name": "ECHO IEHK 2024,Suppl Equipment UNIT S1/2",
+                "type": "subkit",
+                "prepacks": [
+                    "S9998053"
+                ],
+                "dependencies": [
+                    "S9998053"
+                ]
+            },
+            "S7998052": {
+                "name": "ECHO IEHK 2024,Suppl Equipment UNIT S2/2",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S7998051",
+            "S7998052"
+        ]
+    },
+    "S7901044": {
+        "name": "ECHO IEHK 2024,Suppl Med Inj UNIT",
+        "type": "master",
+        "subkits": {
+            "S7991145": {
+                "name": "ECHO IEHK 2024,Suppl Med Inj UNIT S 1/5",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991150"
+                ],
+                "dependencies": [
+                    "S9991150"
+                ]
+            },
+            "S7991146": {
+                "name": "ECHO IEHK 2024,Suppl Med Inj UNIT S 2/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991147": {
+                "name": "ECHO IEHK 2024,Suppl Med Inj UNIT S 3/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991148": {
+                "name": "ECHO IEHK 2024,Suppl Med Inj UNIT S 4/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991149": {
+                "name": "ECHO IEHK 2024,Suppl Med Inj UNIT S 5/5",
+                "type": "subkit",
+                "prepacks": [
+                    "S7991151"
+                ],
+                "dependencies": [
+                    "S7991151"
+                ]
+            }
+        },
+        "dependencies": [
+            "S7991145",
+            "S7991146",
+            "S7991147",
+            "S7991148",
+            "S7991149"
+        ]
+    },
+    "S7901040": {
+        "name": "ECHO IEHK 2024,Basic Med&Renewable UNIT",
+        "type": "master",
+        "subkits": {
+            "S7991040": {
+                "name": "ECHO IEHK 2024,Basic Med&Renewable S 1/3",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991044"
+                ],
+                "dependencies": [
+                    "S9991044"
+                ]
+            },
+            "S7991041": {
+                "name": "ECHO IEHK 2024,Basic Med&Renewable S 2/3",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991045"
+                ],
+                "dependencies": [
+                    "S9991045"
+                ]
+            },
+            "S7991042": {
+                "name": "ECHO IEHK 2024,Basic Med&Renewable S 3/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S7991040",
+            "S7991041",
+            "S7991042"
+        ]
+    },
+    "S7901050": {
+        "name": "ECHO IEHK 2024,Suppl Renewable UNIT",
+        "type": "master",
+        "subkits": {
+            "S7991052": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S1/6",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991059"
+                ],
+                "dependencies": [
+                    "S9991059"
+                ]
+            },
+            "S7991053": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S2/6",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991054": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S3/6",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991058"
+                ],
+                "dependencies": [
+                    "S9991058"
+                ]
+            },
+            "S7991055": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S4/6",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991056": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S5/6",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7991057": {
+                "name": "ECHO IEHK 2024,Suppl Renewable UNIT S6/6",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S7991052",
+            "S7991053",
+            "S7991054",
+            "S7991055",
+            "S7991056",
+            "S7991057"
+        ]
+    },
+    "S9906805": {
+        "name": "Yemen PHC kit 2025, Supp. Medicines",
+        "type": "master",
+        "subkits": {
+            "S9996823": {
+                "name": "Yemen PHC kit 2025, Supp. Medicines s1/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996824": {
+                "name": "Yemen PHC kit 2025, Supp. Medicines s2/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996825": {
+                "name": "Yemen PHC kit 2025, Supp. Medicines s3/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996826": {
+                "name": "Yemen PHC kit 2025, Supp. Medicines s4/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996827": {
+                "name": "Yemen PHC kit 2025, Supp. Medicines s5/5",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996823",
+            "S9996824",
+            "S9996825",
+            "S9996826",
+            "S9996827"
+        ]
+    },
+    "S9906804": {
+        "name": "Yemen PHC kit 2025, Basic Medicines",
+        "type": "master",
+        "subkits": {
+            "S9996800": {
+                "name": "SUB 1/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996801": {
+                "name": "SUB 2/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996802": {
+                "name": "SUB 3/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996803": {
+                "name": "SUB 4/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996804": {
+                "name": "SUB 5/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996805": {
+                "name": "SUB 6/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996806": {
+                "name": "SUB 7/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996811": {
+                "name": "SUB 8/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996822": {
+                "name": "SUB 9/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996812": {
+                "name": "SUB 10/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996813": {
+                "name": "SUB 11/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996814": {
+                "name": "SUB 12/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996815": {
+                "name": "SUB 13/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996820": {
+                "name": "SUB 14/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996821": {
+                "name": "SUB 15/15 Yemen PHC kit 2025, Basic Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996800",
+            "S9996801",
+            "S9996802",
+            "S9996803",
+            "S9996804",
+            "S9996805",
+            "S9996806",
+            "S9996811",
+            "S9996822",
+            "S9996812",
+            "S9996813",
+            "S9996814",
+            "S9996815",
+            "S9996820",
+            "S9996821"
+        ]
+    },
+    "S9906806": {
+        "name": "Yemen PHC kit 2025, Consumables",
+        "type": "master",
+        "subkits": {
+            "S9996816": {
+                "name": "Yemen PHC kit 2025, Consumables sub 1/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996817": {
+                "name": "Yemen PHC kit 2025, Consumables sub 2/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9996818": {
+                "name": "Yemen PHC kit 2025, Consumables sub 3/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996816",
+            "S9996817",
+            "S9996818"
+        ]
+    },
+    "S9901044": {
+        "name": "IEHK 2024,Suppl. Medicine Inj. UNIT",
+        "type": "master",
+        "subkits": {
+            "S9991145": {
+                "name": "SUB 1/5 IEHK 2024,Suppl. Medicine Inj.",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991150"
+                ],
+                "dependencies": [
+                    "S9991150"
+                ]
+            },
+            "S9991146": {
+                "name": "SUB 2/5 IEHK 2024,Suppl. Medicine Inj.",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991147": {
+                "name": "SUB 3/5 IEHK 2024,Suppl. Medicine Inj.",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991148": {
+                "name": "SUB 4/5 IEHK 2024,Suppl. Medicine Inj.",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991149": {
+                "name": "IEHK 2024,Suppl. Medicine Inj. S9901044",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991151"
+                ],
+                "dependencies": [
+                    "S9991151"
+                ]
+            }
+        },
+        "dependencies": [
+            "S9991145",
+            "S9991146",
+            "S9991147",
+            "S9991148",
+            "S9991149"
+        ]
+    },
+    "S7903003": {
+        "name": "ECHO AWD, Periphery kit, Renewable",
+        "type": "master",
+        "subkits": {
+            "S7993013": {
+                "name": "AWD, Periphery kit, Renewable sub 1/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S7993023": {
+                "name": "AWD, Periphery kit, Renewable sub 2/3",
+                "type": "subkit",
+                "prepacks": [
+                    "S9999143",
+                    "S9999138",
+                    "S9999137"
+                ],
+                "dependencies": [
+                    "S9999143",
+                    "S9999138",
+                    "S9999137"
+                ]
+            },
+            "S7993033": {
+                "name": "AWD, Periphery kit, Renewable sub 3/3",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S7993013",
+            "S7993023",
+            "S7993033"
+        ]
+    },
+    "S9906807": {
+        "name": "Yemen PHC kit 2025, Supp. HC Medicines",
+        "type": "master",
+        "subkits": {
+            "S9996808": {
+                "name": " S 1/2 S9996807 Yemen PHC kit 2025,Medi",
+                "type": "subkit",
+                "prepacks": [
+                    "S9996807"
+                ],
+                "dependencies": [
+                    "S9996807"
+                ]
+            },
+            "S9996809": {
+                "name": " S 2/2 S9996807 Yemen PHC kit 2025,Medi",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9996808",
+            "S9996809"
+        ]
+    },
+    "S9902460": {
+        "name": "NBK, Hospital, Module 1, Medicines",
+        "type": "master",
+        "subkits": {
+            "S9992461": {
+                "name": "SUB 1/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992462": {
+                "name": "SUB 2/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992463": {
+                "name": "SUB 3/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992464": {
+                "name": "SUB 4/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992465": {
+                "name": "SUB 5/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992466": {
+                "name": "SUB 6/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992467": {
+                "name": "SUB 7/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992468": {
+                "name": "SUB 8/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992469": {
+                "name": "SUB 9/16 NBK,Hospital, Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992460": {
+                "name": "SUB 10/16 NBK,Hospital, Module 1,Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992561": {
+                "name": "SUB 11/16 NBK,Hospital,Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992562": {
+                "name": "SUB 12/16 NBK,Hospital,Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992563": {
+                "name": "SUB 13/16 NBK,Hospital,Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992564": {
+                "name": "SUB 14/16 NBK,Hospital,Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992565": {
+                "name": "SUB 15/16 NBK,Hospital,Module 1, Medicin",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9992430": {
+                "name": "SUB 16/16 NBK,Hospital,Module1 Med 16-48",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9992461",
+            "S9992462",
+            "S9992463",
+            "S9992464",
+            "S9992465",
+            "S9992466",
+            "S9992467",
+            "S9992468",
+            "S9992469",
+            "S9992460",
+            "S9992561",
+            "S9992562",
+            "S9992563",
+            "S9992564",
+            "S9992565",
+            "S9992430"
+        ]
+    },
+    "S9901046": {
+        "name": "IEHK 2024,Suppl Medicine Controlled UNIT",
+        "type": "master",
+        "subkits": {},
+        "dependencies": []
+    },
+    "S9901050": {
+        "name": "IEHK 2024,Suppl. Renewable UNIT",
+        "type": "master",
+        "subkits": {
+            "S9991052": {
+                "name": "SUB 1/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991059"
+                ],
+                "dependencies": [
+                    "S9991059"
+                ]
+            },
+            "S9991053": {
+                "name": "SUB 2/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991054": {
+                "name": "SUB 3/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [
+                    "S9991058"
+                ],
+                "dependencies": [
+                    "S9991058"
+                ]
+            },
+            "S9991055": {
+                "name": "SUB 4/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991056": {
+                "name": "SUB 5/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            },
+            "S9991057": {
+                "name": "SUB 6/6 IEHK 2024,Suppl. Renewable UNIT",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9991052",
+            "S9991053",
+            "S9991054",
+            "S9991055",
+            "S9991056",
+            "S9991057"
+        ]
+    },
+    "S9901051": {
+        "name": "IEHK 2024,Suppl. Equipment UNIT",
+        "type": "master",
+        "subkits": {
+            "S9998051": {
+                "name": "sub 1/2 IEHK 2024,Suppl. Equipment UNIT",
+                "type": "subkit",
+                "prepacks": [
+                    "S9998053"
+                ],
+                "dependencies": [
+                    "S9998053"
+                ]
+            },
+            "S9998052": {
+                "name": "sub 2/2 IEHK 2024,Suppl. Equipment UNIT",
+                "type": "subkit",
+                "prepacks": [],
+                "dependencies": []
+            }
+        },
+        "dependencies": [
+            "S9998051",
+            "S9998052"
+        ]
+    }
+}

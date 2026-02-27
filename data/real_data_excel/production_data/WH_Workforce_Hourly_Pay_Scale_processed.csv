@@ -1,0 +1,13 @@
+id,employment_type_id,employment_type,shift,shift_type_id,level,Value (USD)
+1,2,Humanizer,Day shift,1,none,27.939430832445595
+1,2,Humanizer,evening_shift,2,none,27.939430832445595
+2,2,Humanizer,overtime,3,none, 41.90914624866839
+3,1,UNICEF Fixed term,Day shift,1, GS4 ,43.27451923076923
+3,1,UNICEF Fixed term,evening_shift,2, GS4 ,43.27451923076923
+4,1,UNICEF Fixed term,overtime,3, GS4 ,64.91177884615385
+5,1,UNICEF Fixed term,Day shift,1, GS5 ,44.35817307692308
+5,1,UNICEF Fixed term,evening_shift,2, GS5 ,44.35817307692308
+6,1,UNICEF Fixed term,overtime,3, GS5 ,66.53725961538461
+7,1,UNICEF Fixed term,Day shift,1, GS7 ,57.666826923076925
+7,1,UNICEF Fixed term,evening_shift,2, GS7 ,57.666826923076925
+8,1,UNICEF Fixed term,overtime,3, GS7 ,86.50024038461538

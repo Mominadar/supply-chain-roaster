@@ -1,0 +1,24 @@
+# Data Paths Configuration
+# All paths are relative to the project root directory
+
+data:
+  # CSV data files
+  csv:
+    demand: "data/real_data_excel/production_data/COOIS_Planned_and_Released_260115.csv"
+    kit_composition: "data/real_data_excel/production_data/Kit_Composition_and_relation_cleaned_with_line_type.csv"
+    workforce_pay_scale: "data/real_data_excel/production_data/WH_Workforce_Hourly_Pay_Scale_processed.csv"
+    work_shift: "data/real_data_excel/production_data/work_shift.csv"
+    work_center_capacity: "data/real_data_excel/production_data/Work_Centre_Capacity.csv"
+    work_center_capacity_processed: "data/real_data_excel/production_data/Work_Centre_Capacity_processed.csv"
+    material_master: "data/real_data_excel/production_data/Material_Master_WMS.csv"
+    kits_calculation: "data/real_data_excel/production_data/Kits__Calculation_260115.csv"
+  
+  # Hierarchy data
+  hierarchy:
+    kit_hierarchy: "data/hierarchy_exports/kit_hierarchy.json"
+    kit_hierarchy_source: "data/raw_csv/Kit_Composition_and_relation.csv"
+
+outputs:
+  reports:
+    consistency_check: "data/reports/consistency_check_results.xlsx"
+

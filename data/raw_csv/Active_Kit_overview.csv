@@ -1,0 +1,666 @@
+Material,Material Description,nb of kit,Kit type,kit Family 2,Kit level,Amt.in loc.cur.,X-Plant - Copy
+S9901040,"IEHK 2024,Basic Medicine&Renewable UNIT",600,Standard kit,Health,Master kit,$348876,Active material
+S9901041,"IEHK 2024,Basic Malaria UNIT",35,Standard kit,Health,Master kit,$37727,Active material
+S9901042,"IEHK 2024,Basic Equipment UNIT",160,Standard kit,Health,Master kit,$9890,Active material
+S9901043,"IEHK 2024,Suppl. Medicine Oral UNIT",1,Standard kit,Health,Master kit,$1529,Active material
+S9901045,"IEHK 2024,Suppl. Med Mental Health UNIT",167,Standard kit,Health,Master kit,$22329,Active material
+S9901047,"IEHK 2024,Suppl Medicine Cold Chain UNIT",13,Standard kit,Health,Master kit,$2131,Active material
+S9901048,"IEHK 2024,Suppl. Malaria UNIT",20,Standard kit,Health,Master kit,$25206,Active material
+S9901049,"IEHK 2024,Suppl. PEP Unit",400,Standard kit,Health,Master kit,$166290,Active material
+S9902217,"Midwifery kit,1-drugs",47710,Standard kit,Midwifery,Master kit,$15008743,Active material
+S9902219,"Midwifery kit,3-renewable",56257,Standard kit,Midwifery,Master kit,$13105672,Active material
+S9902220,S9902220,12165,Standard kit,Midwifery,Master kit,$193743,Active material
+S9902221,"Midwifery kit – equipment, 2",25461,Standard kit,Midwifery,Master kit,$4499953,Active material
+S9902302,Nigeria Kit 2017,21009,Country specific,Health,Master kit,$12586630,Active material
+S9902410,"NBK,Community,Part B, Module 1,Medicines",2327,Standard kit,New Born Kits,Master kit,$2185224,Active material
+S9902420,"NBK,Community,Part B, Module 2,Equipment",2115,Standard kit,New Born Kits,Master kit,$553193,Active material
+S9902430,"NBK, Clinic, Module 1, Medicines",397,Standard kit,New Born Kits,Master kit,$1458554,Active material
+S9902440,"NBK, Clinic, Module 2, Consumables",431,Standard kit,New Born Kits,Master kit,$352563,Active material
+S9902450,"NBK, Clinic, Module 3, Equipment",557,Standard kit,New Born Kits,Master kit,$642264,Active material
+S9902460,"NBK, Hospital, Module 1, Medicines",83,Standard kit,New Born Kits,Master kit,$767026,Active material
+S9902470,"NBK, Hospital, Module 2, Consumables",91,Standard kit,New Born Kits,Master kit,$164958,Active material
+S9902480,"NBK, Hospital, Module 3, Equipment",33,Standard kit,New Born Kits,Master kit,$464475,Active material
+S9902600,Clean Delivery Kit,94451,Standard kit,Health,Master kit,$519101,Active material
+S9903000,"AWD, Community kit, Community Care",9513,Standard kit,Wash,Master kit,$1539667,Active material
+S9903001,"AWD Kit, Periphery kit, Logistics Part",6162,Standard kit,Wash,Master kit,$6222450,Active material
+S9903002,"AWD, Periphery kit, Equipment",8779,Standard kit,Wash,Master kit,$3332855,Active material
+S9903003,"AWD, Periphery kit, Renewable",10710,Standard kit,Wash,Master kit,$4891613,Active material
+S9903004,AWD Periphery kit Drug,21707,Standard kit,Wash,Master kit,$15046505,Active material
+S9903005,AWD Community Kit Drug,12632,Standard kit,Wash,Master kit,$1246918,Active material
+S9906706,Ethiopia Midwifery kit 3-renew,7925,Country specific,Midwifery,Master kit,$1653953,Active material
+S9906708,"Ethiopia IEHK2011,kit,suppl.3-renew",3006,Country specific,Health,Master kit,$1929596,Active material
+S9906710,Ethiopia Emergency Drug kit 2019,4867,Country specific,Health,Master kit,$7398154,Active material
+S9906712,"Sudan, Primary Healthcare kit, 2016",4487,Country specific,Health,Master kit,$3637821,Active material
+S9906713,"Sudan, IMCI Medicine kit, 2016",4403,Country specific,Health,Master kit,$5859767,Active material
+S9906714,"Sudan Community Midwife kit, 2016",6085,Country specific,Midwifery,Master kit,$953241,Active material
+S9906719,DPRK EM Kit 2018,16341,Country specific,Health,Master kit,$3238972,Active material
+S9906728,DRC Health Centre kit 2016,340,Country specific,Health,Master kit,$234049,Active material
+S9906729,DRC Measles Kit 2021,1133,Country specific,Health,Master kit,$595119,Active material
+S9906731,DPRK HHD Kit Refill 2018,6519,Country specific,Health,Master kit,$546344,Active material
+S9906732,DPRK Household Doctors Kit 2018,3123,Country specific,Health,Master kit,$312830,Active material
+S9906733,South Sudan PHCC Kit 2018 Basic Medicin,998,Country specific,Health,Master kit,$1882576,Active material
+S9906734,"South Sudan, PHCU Kit 2018",1607,Country specific,Health,Master kit,$2513426,Active material
+S9906735,South Sudan PHCC Kit 2018-Injectables,724,Country specific,Health,Master kit,$2263176,Active material
+S9906736,South Sudan PHCC Kit 2018- IV infusions,649,Country specific,Health,Master kit,$63431,Active material
+S9906737,South Sudan PHCC Kit 2018-Med Dev & Diag,648,Country specific,Health,Master kit,$1155105,Active material
+S9906742,Mozambique Community Health Worker Kit,57468,Country specific,Health,Master kit,$5766758,Active material
+S9906753,"Nut kit,Inpatient, Ethiop.Mod. Med. Supp",1638,Country specific,Health,Master kit,$348119,Active material
+S9906754,"Nutrition Kit, Anthropometric. ETH",1638,Country specific,Health,Master kit,$472576,Active material
+S9906791,"Mali, in-patient CMAM kit, version 2014",329,Country specific,Health,Master kit,$341907,Active material
+S9906797,"Ethiopia Midwifery kit,2-equipment V2",5266,Country specific,Midwifery,Master kit,$685044,Active material
+S9906800,Yemen Primary Health Kit 2021-Basic meds,44949,Country specific,Health,Master kit,$24201616,Active material
+S9906801,Yemen Primary Health Kit2021-consumables,33038,Country specific,Health,Master kit,$5840540,Active material
+S9906802,Yemen Primary Health Kit 2021-Suppl meds,13135,Country specific,Health,Master kit,$5723103,Active material
+S9908200,"Sterilization, kit C",11789,Standard kit,Sterilization,Master kit,$6734000,Active material
+S9908300,"Obstetric,surgical kit,suppl.1-drugs",7017,Standard kit,Obstetric,Master kit,$14750002,Active material
+S9908302,"Obstetric,surgical kit,suppl.3-renewable",8309,Standard kit,Obstetric,Master kit,$9550986,Active material
+S9908303,"Obstetric,surgical kit,suppl.1a-drugs",4162,Standard kit,Obstetric,Master kit,$1201277,Active material
+S9908305,"Obstetric,surgical kit,suppl.2-equipment",2935,Standard kit,Obstetric,Master kit,$2252967,Active material
+S9908402,"Resuscitation kit,basic",5150,Standard kit,Resuscitation,Master kit,$897070,Active material
+S9910000,"Surg.inst.,abdominal /SET",11341,Standard kit,surgical,Master kit,$1674681,Active material
+S9910001,"Surg.inst.,basic surgery /SET",6657,Standard kit,surgical,Master kit,$247182,Active material
+S9910002,"Surg.inst.,curettage /SET",13546,Standard kit,surgical,Master kit,$939694,Active material
+S9910003,"Surg.inst.,delivery /SET",157383,Standard kit,surgical,Master kit,$888654,Active material
+S9910004,"Surg.inst.,suture /SET",177249,Standard kit,surgical,Master kit,$1062140,Active material
+S9910005,"Surg.inst.,dressing /SET",281189,Standard kit,surgical,Master kit,$933390,Active material
+S9910006,"Surg.inst.,exam/sut,vaginal/cervical/SET",20858,Standard kit,surgical,Master kit,$707605,Active material
+S9935011,"School-in-a-carton,40 students, 2016",118547,Standard kit,Education,Master kit,$10964525,Active material
+S9935019,"School-in-a-bag kit,40 student,1 teacher",110250,Standard kit,Education,Master kit,$6202144,Active material
+S9935024,"Recreation kit, 2016",180689,Standard kit,Education,Master kit,$25017263,Active material
+S9935030,Recreation kit mini version,24317,Standard kit,Education,Master kit,$1219995,Active material
+S9935034,"Recreation kit-in-a-carton, 2016",87120,Standard kit,Education,Master kit,$8239219,Active material
+S9935051,"School-in-a-carton, Yemen",5194,Country specific,Education,Master kit,$544194,Active material
+S9935064,"Early Childhood Dvt (ECD) kit, 2016",141988,Standard kit,Education,Master kit,$19710245,Active material
+S9935065,"ECD kit-in-a-carton, 2016",48188,Standard kit,Education,Master kit,$4791198,Active material
+S9935080,Arabic Student Kit Grade 1-4,195336,Country specific,Education,Master kit,$15488137,Active material
+S9935081,Arabic Student Kit Grade 5-8,119350,Country specific,Education,Master kit,$9756042,Active material
+S9935082,Arabic Teacher's Kit,87051,Country specific,Education,Master kit,$3766415,Active material
+S9935084,Syria Emergency School in a Carton Kit,25723,Country specific,Education,Master kit,$2000883,Active material
+S9935090,"Syria Paediatric Kit, 2019",15097,Country specific,Education,Master kit,$3523055,Active material
+S9935095,Replenishment kit for School-in-a-box,37424,Standard kit,Education,Master kit,$1471725,Active material
+S9935097,"School-in-a-box,40 students, 2016",160047,Standard kit,Education,Master kit,$21039627,Active material
+S9935099,Extra materials for School-in-a-box,5424,Standard kit,Education,Master kit,$244515,Active material
+S9935100,"School-in-a-carton, Ukraine",2500,Country specific,Education,Master kit,$227825,Active material
+S9935101,"School-in-a-box, Ukraine",4452,Country specific,Education,Master kit,$729369,Active material
+S9975020,First aid kit class A,153151,Standard kit,First aid kit,Master kit,$3866372,Active material
+S9986710,PP 3/3 F Sub 2/3 Yemen PHK S9906800,35691,Standard kit,Health,Prepack,$3204358,Active material
+S9986711,PP 1/5 F SUB 1/6 Ethiopia Emerg.S9906710,4850,Country specific,Health,Prepack,$959240,Active material
+S9986712,PP 2/5 F SUB 1/6 Ethiopia Emerg.S9906710,4969,Country specific,Health,Prepack,$215314,Active material
+S9986713,PP 3/5 F SUB 2/6 Ethiopia Emerg.S9906710,4850,Country specific,Health,Prepack,$750064,Active material
+S9986714,PP 4/5 F SUB 2/6 Ethiopia Emerg.S9906710,4850,Country specific,Health,Prepack,$304580,Active material
+S9986715,PP 5/5 F SUB 2/6 Ethiopia Emerg.S9906710,3402,Country specific,Health,Prepack,$236220,Active material
+S9986716,PP 1/3 F Sub 1/3 Yemen PHK S9906800,44973,Country specific,Health,Prepack,$2073674,Active material
+S9986717,PP 2/3 F Sub 2/3 Yemen PHK S9906800,45017,Country specific,Health,Prepack,$2523809,Active material
+S9986718,PP 1/2 F Yemen PHK-Suppl meds S9906802,13134,Country specific,Health,Prepack,$434898,Active material
+S9986719,P 2/2 F Yemen PHK-Suppl meds S9906802,13134,Country specific,Health,Prepack,$1084486,Active material
+S9986720,Bag 1/1 Ukraine hygiene,50000,Country specific,Wash,Bag,$232876,Active material
+S9986721,SUB 1/3  Yemen PHK 2021-Basic S9906800,44973,Standard kit,Health,Sub-kit,$5185378,Active material
+S9986722,SUB 2/3  Yemen PHK 2021-Basic S9906800,44949,Country specific,Health,Sub-kit,$15062367,Active material
+S9986723,SUB 3/3  Yemen PHK 2021-Basic S9906800,44949,Country specific,Health,Sub-kit,$2825804,Active material
+S9986724,SUB 4/5 F Yemen PHK 2021-Basic S9906800,8858,Country specific,Health,Sub-kit,$375239,Active material
+S9986725,SUB 5/5 F Yemen PHK 2021-Basic S9906800,8858,Country specific,Health,Sub-kit,$396808,Active material
+S9990031,"Sub 1/6 F S9901030 IEHK2017, suppl.3 ren",8828,Standard kit,Health,Sub-kit,$452346,Active material
+S9990032,"Sub 2/6 F S9901030 IEHK2017, suppl.3 ren",8828,Standard kit,Health,Sub-kit,$1635561,Active material
+S9990033,"Sub 3/6 F S9901030 IEHK2017, suppl.3 ren",8951,Standard kit,Health,Sub-kit,$2429586,Active material
+S9990034,"Sub 4/6 F S9901030 IEHK2017, suppl.3 ren",8922,Standard kit,Health,Sub-kit,$823130,Active material
+S9990035,"Sub 5/6 F S9901030 IEHK2017, suppl.3 ren",8872,Standard kit,Health,Sub-kit,$968780,Active material
+S9990036,"Sub 6/6 F S9901030 IEHK2017, suppl.3 ren",8828,Standard kit,Health,Sub-kit,$1825661,Active material
+S9990037,"Sub 2/2 F S9901029 IEHK2017, suppl.2 ren",6608,Standard kit,Health,Sub-kit,$1718856,Active material
+S9990038,"Sub 1/2 F S9901029 IEHK2017, suppl.2 ren",6605,Standard kit,Health,Sub-kit,$3914804,Active material
+S9990041,"Sub 1/2 IEHK2017,kit,basic module",52168,Standard kit,Health,Sub-kit,$9507178,Active material
+S9990042,"Sub 2/2 IEHK2017,kit,basic module",52007,Standard kit,Health,Sub-kit,$9932262,Active material
+S9991041,"IEHK 2024,Basic Medicine&Renewabl SUB1/3",600,Standard kit,Health,Sub-kit,$80412,Active material
+S9991042,"IEHK 2024,Basic Medicine&Renewabl SUB2/3",600,Standard kit,Health,Sub-kit,$77916,Active material
+S9991043,"IEHK 2024,Basic Medicine&Renewabl SUB3/3",600,Standard kit,Health,Sub-kit,$190548,Active material
+S9991044,"PP 1/2 IEHK 2024,Basic Medicine&Renewabl",1500,Standard kit,Health,Prepack,$36078,Active material
+S9991045,"PP 2/2 IEHK 2024,Basic Medicine&Renewabl",1500,Standard kit,Health,Prepack,$37980,Active material
+S9991046,"PP1 IEHK 2024,Basic Equipment UNIT",1600,Standard kit,Health,Prepack,$45768,Active material
+S9991048,"IEHK 2024,Suppl. Malaria UNIT SUB 1/4",20,Standard kit,Health,Sub-kit,$4391,Active material
+S9991049,"IEHK 2024,Suppl. Malaria UNIT SUB 2/4",55,Standard kit,Health,Sub-kit,$27669,Active material
+S9991050,"IEHK 2024,Suppl. Malaria UNIT SUB 3/4",55,Standard kit,Health,Sub-kit,$11788,Active material
+S9991051,"IEHK 2024,Suppl. Malaria UNIT SUB 4/4",15,Standard kit,Health,Sub-kit,$720,Active material
+S9991121,SUB 1/5 f.S9901026 IEHK2017 part 1,7275,Standard kit,Health,Sub-kit,$3054115,Active material
+S9991122,SUB 2/5 f.S9901026 IEHK2017 part 2,7103,Standard kit,Health,Sub-kit,$5340634,Active material
+S9991123,SUB 3/5 f.S9901026 IEHK2017 part 1,7354,Standard kit,Health,Sub-kit,$2542417,Active material
+S9991124,SUB 4/5 f.S9901026 IEHK2017 part 4,7354,Standard kit,Health,Sub-kit,$4331062,Active material
+S9991125,"IEHK2017,kit,suppl.1-medicines S9901026",7230,Standard kit,Health,Sub-kit,$5590872,Active material
+S9991126,P 1/2 80 x S1531005 f IEHK2017,1693,Standard kit,Health,Prepack,$957683,Active material
+S9991127,P 2/2 300 x S0531991 f  IEHK2017,1728,Standard kit,Health,Prepack,$78320,Active material
+S9991221,"PP 1/9 F. SUB 4/5 F.  IEHK2017,medicines",7424,Standard kit,Health,Prepack,$547390,Active material
+S9991222,"PP 2/9 F. SUB 2/5 F.IEHK2017,medicines",7179,Standard kit,Health,Prepack,$876784,Active material
+S9991223,"PP 3/9 F. SUB 4/5 F. IEHK2017,medicines",7117,Standard kit,Health,Prepack,$776610,Active material
+S9991224,"PP 4/9 F. SUB 1/5 F.  IEHK2017,medicines",7172,Standard kit,Health,Prepack,$556517,Active material
+S9991225,"PP 5/9 F. SUB 2/5 F.  IEHK2017,medicines",7118,Standard kit,Health,Prepack,$1114507,Active material
+S9991226,"PP 6/9 F. SUB 1/5 F. IEHK2017,medicines",7836,Standard kit,Health,Prepack,$446491,Active material
+S9991227,"PP 7/9 F. SUB 1/5 F. IEHK2017,medicines",7548,Standard kit,Health,Prepack,$472114,Active material
+S9991228,"PP 8/9 F. SUB 2/5 F. IEHK2017,medicines",6941,Standard kit,Health,Prepack,$1974426,Active material
+S9991229,"PP 9/9 F. SUB 2/5 F. IEHK2017,medicines",6898,Standard kit,Health,Prepack,$792134,Active material
+S9991321,"IEHK2017, PEP kit sub1/3 Child",5526,Standard kit,Health,Sub-kit,$939356,Active material
+S9991322,"IEHK2017, PEP kit sub2/3 Adult",5688,Standard kit,Health,Sub-kit,$1216943,Active material
+S9991323,"IEHK2017, PEP kit sub3/3 Adult",5680,Standard kit,Health,Prepack,$1217534,Active material
+S9992411,"SUB 1/3 NBK,Community,Part B,Module1,Med",1036,Standard kit,Health,Sub-kit,$252014,Active material
+S9992412,"SUB 2/3 NBK,Community,Part B,Module1,Med",2149,Standard kit,New Born Kits,Sub-kit,$594878,Active material
+S9992413,"SUB 3/3 NBK,Community,Part B,Module1,Med",2049,Standard kit,New Born Kits,Sub-kit,$566573,Active material
+S9992414,"PP 1/2 NBK, Hospital,Module 2,Consum",112,Standard kit,New Born Kits,Sub-kit,$6327,Active material
+S9992415,"PP 2/2 NBK, Hospital,Module 2,Consum",112,Standard kit,Health,Prepack,$5412,Active material
+S9992416,"SUB 1/3 NBK,Community,Part B,Module1,Med",1557,Standard kit,Health,Sub-kit,$647021,Active material
+S9992430,"SUB 11/11 NBK,Hospital, Module 1,Medicin",102,Standard kit,New Born Kits,Sub-kit,$53269,Active material
+S9992431,"SUB 1/8 NBK, Clinic, Module 1, Medicines",394,Standard kit,Health,Sub-kit,$118383,Active material
+S9992432,"SUB 2/8 NBK, Clinic, Module 1, Medicines",406,Standard kit,New Born Kits,Sub-kit,$320929,Active material
+S9992433,"SUB 3/8 NBK, Clinic, Module 1, Medicines",408,Standard kit,New Born Kits,Sub-kit,$485934,Active material
+S9992434,"SUB 4/8 NBK, Clinic, Module 1, Medicines",426,Standard kit,New Born Kits,Sub-kit,$37582,Active material
+S9992435,"SUB 5/8 NBK, Clinic, Module 1, Medicines",426,Standard kit,New Born Kits,Sub-kit,$36689,Active material
+S9992436,"SUB 6/8 NBK, Clinic, Module 1, Medicines",426,Standard kit,New Born Kits,Sub-kit,$88345,Active material
+S9992437,"SUB 7/8 NBK, Clinic, Module 1, Medicines",426,Standard kit,New Born Kits,Sub-kit,$88338,Active material
+S9992438,"S9902430  8/8 NBK,Clinic,Mod part 8-40",453,Standard kit,New Born Kits,Sub-kit,$241582,Active material
+S9992441,"SUB 1/3 NBK, Clinic,Module 2,Consumables",431,Standard kit,Health,Sub-kit,$164523,Active material
+S9992442,"SUB 2/3 NBK, Clinic,Module 2,Consumables",422,Standard kit,New Born Kits,Sub-kit,$62794,Active material
+S9992443,"SUB 3/3 NBK, Clinic,Module 2,Consumables",426,Standard kit,New Born Kits,Sub-kit,$94339,Active material
+S9992450,"PP 1/1 NBK, Clinic, Module 3, Equipment",556,Standard kit,New Born Kits,Prepack,$37196,Active material
+S9992451,"SUB 1/6 NBK, Clinic, Module 3, Equipment",556,Standard kit,Health,Sub-kit,$332766,Active material
+S9992452,"SUB 2/6 NBK, Clinic, Module 3, Equipment",556,Standard kit,New Born Kits,Sub-kit,$49270,Active material
+S9992453,"SUB 3/6 NBK, Clinic, Module 3, Equipment",556,Standard kit,New Born Kits,Sub-kit,$49836,Active material
+S9992454,"SUB 4/6 NBK, Clinic, Module 3, Equipment",556,Standard kit,New Born Kits,Sub-kit,$46409,Active material
+S9992455,"SUB 5/6 NBK, Clinic, Module 3, Equipment",335,Standard kit,New Born Kits,Sub-kit,$49706,Active material
+S9992456,"SUB 6/6 NBK, Clinic, Module 3, Equipment",302,Standard kit,New Born Kits,Sub-kit,$45925,Active material
+S9992457,"SUB 6/6 NBK, Clinic, Module 3, Equipment",254,Standard kit,New Born Kits,Sub-kit,$31958,Active material
+S9992458,"SUB 5/6 NBK, Clinic, Module 3, Equipment",254,Standard kit,New Born Kits,Sub-kit,$31958,Active material
+S9992459,"SUB 11/17 NBK, Hospital, Module 3, Equ",25,Standard kit,New Born Kits,Sub-kit,$1126,Active material
+S9992460,"SUB 10/11 NBK,Hospital, Module 1,Medicin",93,Standard kit,New Born Kits,Sub-kit,$258419,Active material
+S9992461,"SUB 1/11 NBK,Hospital, Module 1, Medicin",102,Standard kit,Health,Sub-kit,$100228,Active material
+S9992462,"SUB 2/11 NBK,Hospital, Module 1, Medicin",102,Standard kit,New Born Kits,Sub-kit,$34914,Active material
+S9992463,"SUB 3/11 NBK,Hospital, Module 1, Medicin",102,Standard kit,New Born Kits,Sub-kit,$35050,Active material
+S9992464,"SUB 4/11 NBK,Hospital, Module 1, Medicin",102,Standard kit,New Born Kits,Sub-kit,$46348,Active material
+S9992465,"SUB 5/11 NBK,Hospital, Module 1, Medicin",87,Standard kit,New Born Kits,Sub-kit,$23395,Active material
+S9992466,"SUB 6/11 NBK,Hospital, Module 1, Medicin",87,Standard kit,New Born Kits,Sub-kit,$23441,Active material
+S9992467,"SUB 7/11 NBK,Hospital, Module 1, Medicin",86,Standard kit,New Born Kits,Sub-kit,$112101,Active material
+S9992468,"SUB 8/11 NBK,Hospital, Module 1, Medicin",109,Standard kit,New Born Kits,Sub-kit,$142030,Active material
+S9992469,"SUB 9/11 NBK,Hospital, Module 1, Medicin",95,Standard kit,New Born Kits,Sub-kit,$66672,Active material
+S9992470,"SUB 1/10 NBK, Hospital,Module 2,Consum",112,Standard kit,Health,Sub-kit,$42351,Active material
+S9992471,"SUB 2/10 NBK, Hospital,Module 2,Consum",93,Standard kit,New Born Kits,Sub-kit,$37996,Active material
+S9992472,"SUB 3/10 NBK, Hospital,Module 2,Consum",102,Standard kit,New Born Kits,Sub-kit,$6754,Active material
+S9992473,"SUB 4/10 NBK, Hospital,Module 2,Consum",108,Standard kit,New Born Kits,Sub-kit,$7163,Active material
+S9992474,"SUB 5/10 NBK, Hospital,Module 2,Consum",108,Standard kit,New Born Kits,Sub-kit,$7163,Active material
+S9992475,"SUB 6/10 NBK, Hospital,Module 2,Consum",102,Standard kit,New Born Kits,Sub-kit,$6754,Active material
+S9992476,"SUB 7/10 NBK, Hospital,Module 2,Consum",92,Standard kit,New Born Kits,Sub-kit,$5974,Active material
+S9992477,"SUB 8/10 NBK, Hospital,Module 2,Consum",92,Standard kit,New Born Kits,Sub-kit,$5966,Active material
+S9992478,"SUB 9/10 NBK, Hospital,Module 2,Consum",92,Standard kit,New Born Kits,Sub-kit,$2141,Active material
+S9992479,"SUB 10/10 NBK, Hospital,Module 2,Consum",92,Standard kit,Health,Sub-kit,$5192,Active material
+S9992480,"Bag NBK, Hospital, Module 3, Equ",48,Country specific,Health,Bag,$234,Active material
+S9992481,"SUB 1/17 NBK, Hospital, Module 3, Equ",37,Standard kit,Health,Sub-kit,$23846,Active material
+S9992482,"SUB 2/17 NBK, Hospital, Module 3, Equ",12,Standard kit,New Born Kits,Sub-kit,$11763,Active material
+S9992483,"SUB 3/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$172919,Active material
+S9992484,"SUB 4/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$62254,Active material
+S9992485,"SUB 5/17 NBK, Hospital, Module 3, Equ",12,Standard kit,New Born Kits,Sub-kit,$9788,Active material
+S9992486,"SUB 6/17 NBK, Hospital, Module 3, Equ",15,Standard kit,New Born Kits,Sub-kit,$11473,Active material
+S9992487,"SUB 7/17 NBK, Hospital, Module 3, Equ",12,Standard kit,New Born Kits,Sub-kit,$9663,Active material
+S9992488,"SUB 8/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$7634,Active material
+S9992489,"SUB 9/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$36222,Active material
+S9992490,"SUB 10/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$59639,Active material
+S9992491,"SUB 10/17 NBK, Hospital, Module 3, Equ",12,Standard kit,New Born Kits,Sub-kit,$604,Active material
+S9992492,"SUB 11/17 NBK, Hospital, Module 3, Equ",12,Standard kit,New Born Kits,Sub-kit,$604,Active material
+S9992493,"SUB 13/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$3698,Active material
+S9992494,"SUB 14/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$3526,Active material
+S9992495,"SUB 15/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$3527,Active material
+S9992496,"SUB 16/17 NBK, Hospital, Module 3, Equ",37,Standard kit,New Born Kits,Sub-kit,$3698,Active material
+S9992497,"SUB 17/17 NBK, Hospital, Module 3, Equ",38,Standard kit,New Born Kits,Sub-kit,$3584,Active material
+S9992583,"SUB 6/17 NBK, Hospital, Module 3, Equ",21,Standard kit,New Born Kits,Sub-kit,$15879,Active material
+S9992586,"SUB 2/17 NBK, Hospital, Module 3, Equ",26,Standard kit,New Born Kits,Sub-kit,$25307,Active material
+S9992587,"SUB 12/17 NBK, Hospital, Module 3, Equ",25,Standard kit,New Born Kits,Sub-kit,$1126,Active material
+S9992588,"SUB 7/17 NBK, Hospital, Module 3, Equ",26,Standard kit,New Born Kits,Sub-kit,$20478,Active material
+S9992589,"SUB 5/17 NBK, Hospital, Module 3, Equ",25,Standard kit,New Born Kits,Sub-kit,$19869,Active material
+S9992600,50 x Clean Delivery Kit,1709,Standard kit,Health,Sub-kit,$477643,Active material
+S9993730,PP5/5 f SUB 4/5 S.Sudan18 B.Med S9906733,2002,Country specific,Health,Prepack,$63854,Active material
+S9993731,SUB 1/9 S.Sudan PHCC18  B.Med S9906733,997,Country specific,Health,Sub-kit,$446184,Active material
+S9993732,SUB 2/9 S.Sudan PHCC18  B.Med S9906733,997,Country specific,Health,Sub-kit,$324633,Active material
+S9993733,SUB 3/9 S.Sudan PHCC18  B.Med S9906733,997,Country specific,Health,Sub-kit,$381897,Active material
+S9993734,SUB 4/9 S.Sudan PHCC18  B.Med S9906733,997,Country specific,Health,Sub-kit,$490258,Active material
+S9993735,SUB 5/9 S.Sudan PHCC18  B.Med S9906733,997,Country specific,Health,Sub-kit,$58572,Active material
+S9993736,PP1/5 f SUB 1/5 S.Sudan18 B.Med S9906733,997,Country specific,Health,Prepack,$116168,Active material
+S9993737,PP2/5 f SUB 1/5 S.Sudan18 B.Med S9906733,997,Country specific,Health,Prepack,$99524,Active material
+S9993738,PP3/5 f SUB 4/5 S.Sudan18 B.Med S9906733,997,Country specific,Health,Prepack,$33996,Active material
+S9993739,PP4/5 f SUB 3/5 S.Sudan18 B.Med S9906733,857,Country specific,Health,Prepack,$26096,Active material
+S9993840,SUB 6/9 S.Sudan PHCC18  B.Med S9906733,474,Country specific,Health,Sub-kit,$91262,Active material
+S9993841,SUB 7/9 S.Sudan PHCC18  B.Med S9906733,474,Country specific,Health,Sub-kit,$212333,Active material
+S9993842,SUB 8/9 S.Sudan PHCC18  B.Med S9906733,474,Country specific,Health,Sub-kit,$60070,Active material
+S9993843,SUB 9/9 S.Sudan PHCC18  B.Med S9906733,474,Country specific,Health,Sub-kit,$144521,Active material
+S9994730,"Sub5/8 South Sudan,PHCU Kit2018 S9906734",756,Country specific,Health,Sub-kit,$196560,Active material
+S9994731,"Sub1/8 South Sudan,PHCU Kit2018 S9906734",1606,Country specific,Health,Sub-kit,$1045769,Active material
+S9994732,"Sub2/8 South Sudan,PHCU Kit2018 S9906734",1606,Country specific,Health,Sub-kit,$699311,Active material
+S9994733,"Sub3/8 South Sudan,PHCU Kit2018 S9906734",1606,Country specific,Health,Sub-kit,$274075,Active material
+S9994734,"Sub4/8 South Sudan,PHCU Kit2018 S9906734",1606,Country specific,Health,Sub-kit,$401849,Active material
+S9994735,"PP1/4 f Sub2/4 S.Sudan,PHCU Kit S9906734",1606,Country specific,Health,Prepack,$252038,Active material
+S9994736,"PP2/4 f Sub2/4 S.Sudan,PHCU Kit S9906734",1606,Country specific,Health,Prepack,$269028,Active material
+S9994737,"PP3/4 f Sub3/4 S.Sudan,PHCU Kit S9906734",1606,Country specific,Health,Prepack,$163955,Active material
+S9994738,"PP4/4 f Sub4/4 S.Sudan,PHCU Kit S9906734",1606,Country specific,Health,Prepack,$68508,Active material
+S9994739,"Sub6/8 South Sudan,PHCU Kit2018 S9906734",756,Country specific,Health,Sub-kit,$55259,Active material
+S9994831,"Sub7/8 South Sudan,PHCU Kit2018 S9906734",756,Country specific,Health,Sub-kit,$55259,Active material
+S9994832,"Sub8/8 South Sudan,PHCU Kit2018 S9906734",756,Country specific,Health,Sub-kit,$17257,Active material
+S9994833,"not in use S Sudan,PHCU Kit2018 S9906734",252,Country specific,Health,Sub-kit,$5730,Active material
+S9994921,"IEHK 2024,Suppl. PEP Unit sub1/3 Child",400,Standard kit,Health,Sub-kit,$46722,Active material
+S9994922,"IEHK 2024,Suppl. PEP Unit sub2/3 Adult",400,Standard kit,Health,Sub-kit,$59044,Active material
+S9994923,"IEHK 2024,Suppl. PEP Unit sub3/3 Adult",400,Standard kit,Health,Sub-kit,$59044,Active material
+S9995731,SUB 1/9 SSPHCC Kit 2018-Injecta S9906735,891,Country specific,Health,Sub-kit,$163046,Active material
+S9995732,SUB 2/9 SSPHCC Kit 2018-Injecta S9906735,722,Country specific,Health,Sub-kit,$97955,Active material
+S9995733,SUB 3/9 SSPHCC Kit 2018-Injecta S9906735,722,Country specific,Health,Sub-kit,$93383,Active material
+S9995734,SUB 4/9 SSPHCC Kit 2018-Injecta S9906735,722,Country specific,Health,Sub-kit,$262100,Active material
+S9995735,SUB 5/9 SSPHCC Kit 2018-Injecta S9906735,722,Country specific,Health,Sub-kit,$370696,Active material
+S9995736,SUB 6/9 SSPHCC Kit 2018-Injecta S9906735,507,Country specific,Health,Sub-kit,$319731,Active material
+S9995737,SUB 7/9 SSPHCC Kit 2018-Injecta S9906735,507,Country specific,Health,Sub-kit,$319751,Active material
+S9995738,SUB 8/9 SSPHCC Kit 2018-Injecta S9906735,507,Country specific,Health,Sub-kit,$319734,Active material
+S9995739,SUB 9/9 SSPHCC Kit 2018-Injecta S9906735,507,Country specific,Health,Sub-kit,$319731,Active material
+S9996710,SUB 1/7 Ethiopia Emerg. kit2019 S9906710,4850,Country specific,Health,Sub-kit,$2007615,Active material
+S9996711,SUB 2/7 Ethiopia Emerg. kit2019 S9906710,4850,Country specific,Health,Sub-kit,$2329649,Active material
+S9996712,SUB 3/7 Ethiopia Emerg. kit2019 S9906710,4850,Country specific,Health,Sub-kit,$2302603,Active material
+S9996713,SUB 4/7 Ethiopia Emerg. kit2019 S9906710,4900,Country specific,Health,Sub-kit,$52930,Active material
+S9996714,SUB 5/7 Ethiopia Emerg. kit2019 S9906710,4850,Country specific,Health,Sub-kit,$64402,Active material
+S9996715,SUB 6/7 Ethiopia Emerg. kit2019 S9906710,4850,Country specific,Health,Sub-kit,$319850,Active material
+S9996716,SUB 7/7 Ethiopia Emerg. kit2019 S9906710,4859,Country specific,Health,Sub-kit,$295639,Active material
+S9996721,DRC Measles Kit 2021 SUB 1/5,1032,Country specific,Health,Sub-kit,$88031,Active material
+S9996722,DRC Measles Kit 2021 SUB 2/5,1032,Country specific,Health,Sub-kit,$283814,Active material
+S9996723,DRC Measles Kit 2021 SUB 3/5,1283,Country specific,Health,Sub-kit,$20098,Active material
+S9996724,DRC Measles Kit 2021 SUB 4/5,1032,Country specific,Health,Sub-kit,$74474,Active material
+S9996725,DRC Measles Kit 2021 SUB 5/5,1032,Country specific,Health,Sub-kit,$74487,Active material
+S9996726,DRC Measles Kit 2021 PP 1/1,1032,Country specific,Health,Prepack,$133272,Active material
+S9996731,S. Sudan PHCC 2018 I sub 1/8 f S9906736,648,Country specific,Health,Sub-kit,$12036,Active material
+S9996732,S. Sudan PHCC 2018 I sub 2/8 f S9906736,648,Country specific,Health,Sub-kit,$10979,Active material
+S9996733,S. Sudan PHCC 2018 I sub 3/8 f S9906736,648,Country specific,Health,Sub-kit,$9130,Active material
+S9996734,S. Sudan PHCC 2018 I sub 4/8 f S9906736,648,Country specific,Health,Sub-kit,$9130,Active material
+S9996735,S. Sudan PHCC 2018 I sub 5/8 f S9906736,648,Country specific,Health,Sub-kit,$8941,Active material
+S9996736,S. Sudan PHCC 2018 I sub 6/8 f S9906736,648,Country specific,Health,Sub-kit,$8941,Active material
+S9996737,S. Sudan PHCC 2018 I sub 7/8 f S9906736,648,Country specific,Health,Sub-kit,$8941,Active material
+S9996751,"Prepack. Nut kit,I Ethiop.Mod F S9906753",1637,Country specific,Nutrition,Prepack,$43274,Active material
+S9996752,"SUB1/2 Nut kit,I Ethiop.Mod F S9906753",1637,Country specific,Nutrition,Sub-kit,$194708,Active material
+S9996753,"SUB2/2 Nut kit,I Ethiop.Mod F S9906753",1637,Country specific,Nutrition,Sub-kit,$154754,Active material
+S9996754,"SUB 1/2 S9906754 Nut,Anthropometric. ETH",1637,Country specific,Nutrition,Sub-kit,$219025,Active material
+S9996755,"SUB 2/2 S9906754 Nut,Anthropometric. ETH",1637,Country specific,Nutrition,Sub-kit,$256779,Active material
+S9997730,PP 2/2 F SUB 1/8 SSPHCC2018-Med S9906737,864,Country specific,Health,Prepack,$36603,Active material
+S9997731,SUB 1/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$71939,Active material
+S9997732,SUB 2/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$57340,Active material
+S9997733,SUB 3/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$57732,Active material
+S9997734,SUB 4/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$114064,Active material
+S9997735,SUB 5/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$30262,Active material
+S9997736,SUB 6/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$28927,Active material
+S9997737,SUB 7/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$357711,Active material
+S9997738,SUB 8/8 SSPHCC2018-Med Dev&Diag S9906737,648,Country specific,Health,Sub-kit,$322588,Active material
+S9997739,PP 1/2 F SUB 1/8 SSPHCC2018-Med S9906737,648,Country specific,Health,Prepack,$10421,Active material
+S9998281,"Sub 1/2 IEHK2017,kit,suppl.1b-malaria",1568,Standard kit,Health,Sub-kit,$948469,Active material
+S9998282,"Sub 2/2 IEHK2017,kit,suppl.1b-malaria",1568,Standard kit,Health,Sub-kit,$647697,Active material
+S9998505,"Subkit 4/7 Sudan IMCI Med. kit, 2016",1461,Country specific,Health,Sub-kit,$1180326,Active material
+S9998506,"Subkit 5/7 Sudan IMCI Med. kit, 2016",1457,Country specific,Health,Sub-kit,$347353,Active material
+S9998507,"Subkit 6/7 Sudan IMCI Med. kit, 2016",1457,Country specific,Health,Sub-kit,$332762,Active material
+S9998508,"Subkit 7/7 Sudan IMCI Med. kit, 2016",1457,Country specific,Health,Sub-kit,$20217,Active material
+S9998831,"PP  1/2 IEHK2017,kit,suppl.3-renewable",8922,Standard kit,Health,Prepack,$108590,Active material
+S9998832,"PP  2/2 IEHK2017,kit,suppl.3-renewable",8912,Standard kit,Health,Prepack,$934898,Active material
+S9998833,Prepack  1/1 f S9990038 f S9901029 IEHK,6630,Standard kit,Health,Prepack,$1142271,Active material
+S9998834,Prepack  1/4 f S9990042 - (S9901024)IEHK,52168,Standard kit,Health,Prepack,$3729863,Active material
+S9998835,Prepack  2/4 f S9990042 - (S9901024)IEHK,52281,Standard kit,Health,Prepack,$1815836,Active material
+S9998837,Prepack  3/4 f S9990042 - (S9901024)IEHK,52167,Standard kit,Health,Prepack,$2694642,Active material
+S9998838,Prepack  4/4 f S9990042 - (S9901024)IEHK,52280,Standard kit,Health,Prepack,$1938060,Active material
+S9999011,Subkit 1/2 IEHK2011 Basic.S9901004,23114,Standard kit,Health,Sub-kit,$5166665,Active material
+S9999012,Subkit 2/2 IEHK2011 Basic.S9901004,23114,Standard kit,Health,Sub-kit,$3072757,Active material
+S9999021,"Prepack 1/5 IEHK2011 Basic, S9901004",23271,Standard kit,Health,Prepack,$1171846,Active material
+S9999024,"Prepack 4/5 IEHK2011 Basic, S9901004",23621,Standard kit,Health,Prepack,$693714,Active material
+S9999025,"Prepack 5/5 IEHK2011 Basic, S9901004",23422,Standard kit,Health,Prepack,$938596,Active material
+S9999031,"Bag 1/1 IEHK2011 Basic, S9901004",21303,Standard kit,Health,Bag,$143210,Active material
+S9999041,Subk 1/5 IEHK2011 Med.S9901006,4465,Standard kit,Health,Sub-kit,$2856525,Active material
+S9999042,Sub 2/5 IEHK2011 Med.S9901006,4407,Standard kit,Health,Sub-kit,$2949024,Active material
+S9999043,Sub 3/5 IEHK2011 Med.S9901006,4356,Standard kit,Health,Sub-kit,$1359636,Active material
+S9999044,Sub 4/5 IEHK2011 Med.S9901006,4578,Standard kit,Health,Sub-kit,$799350,Active material
+S9999045,Sub 5/5 (part 5-19)IEHK2011 Med.S9901006,512,Standard kit,Health,Sub-kit,$97849,Active material
+S9999051,Prepack 1/4 IEHK2011 Med.S9901006,4368,Standard kit,Health,Prepack,$288371,Active material
+S9999052,Prepack 2/4 IEHK2011 Med.S9901006,4408,Standard kit,Health,Prepack,$459903,Active material
+S9999053,Prepack 3/4 IEHK2011 Med.S9901006,4527,Standard kit,Health,Prepack,$1355317,Active material
+S9999054,Prepack 4/4 IEHK2011 Med.S9901006,4462,Standard kit,Health,Prepack,$413260,Active material
+S9999081,Prepack 1/1 IEHK2011 2.equip.S9901009,6551,Standard kit,Health,Prepack,$940136,Active material
+S9999111,Subkit 1/6 IEHK2011 Renew.S9901010,5032,Standard kit,Health,Sub-kit,$276020,Active material
+S9999112,Subkit 2/6 IEHK2011 Renew.S9901010,5031,Standard kit,Health,Sub-kit,$439337,Active material
+S9999113,Subkit 3/6 IEHK2011 Renew.S9901010,5054,Standard kit,Health,Sub-kit,$535832,Active material
+S9999114,Subkit 4/6 IEHK2011 Renew.S9901010,5031,Standard kit,Health,Sub-kit,$472057,Active material
+S9999115,Subkit 5/6 IEHK2011 Renew.S9901010,5037,Standard kit,Health,Sub-kit,$252400,Active material
+S9999116,Subkit 6/6 IEHK2011 Renew.S9901010,5031,Standard kit,Health,Sub-kit,$1044993,Active material
+S9999117,Subkit 7/7 IEHK2011 Renew.S9901010,2564,Standard kit,Health,Sub-kit,$94808,Active material
+S9999120,AWD Periphery kit Drug S9903004 sub 5/5,511,Standard kit,Wash,Sub-kit,$7445,Active material
+S9999121,Prepack 1/3 IEHK2011 Renew.S9901010,5032,Standard kit,Health,Prepack,$73590,Active material
+S9999122,Prepack 2/3 IEHK2011 Renew.S9901010,5031,Standard kit,Health,Prepack,$410141,Active material
+S9999123,Prepack 3/3 IEHK2011 Renew.S9901010,5031,Standard kit,Health,Prepack,$32528,Active material
+S9999124,AWD Periphery kit Drug S9903004,21942,Standard kit,Wash,Sub-kit,$9702008,Active material
+S9999125,AWD Periphery kit Drug S9903004 sub 2/4,23331,Standard kit,Wash,Sub-kit,$2784002,Active material
+S9999126,AWD Periphery kit Drug S9903004 sub 3/4,22628,Standard kit,Wash,Sub-kit,$2752325,Active material
+S9999127,AWD Periphery kit Drug S9903004 sub 4/4,14661,Standard kit,Wash,Sub-kit,$805632,Active material
+S9999128,Prepack 1/1 AWD Periphery kit Drug,22116,Standard kit,Wash,Prepack,$412009,Active material
+S9999129,Prepack 1/1 Community Care,9435,Standard kit,Wash,Prepack,$213365,Active material
+S9999130,Prepack 1/1 AWD community kit drug,1553,Standard kit,Wash,Prepack,$6048,Active material
+S9999131,"Sub 1/6 AWD Kit, Periphery kit,Logistics",6262,Standard kit,Health,Sub-kit,$896902,Active material
+S9999132,"Sub 2/6 AWD Kit, Periphery kit,Logistics",6335,Standard kit,Wash,Sub-kit,$914107,Active material
+S9999133,"Sub 3/6 AWD Kit, Periphery kit,Logistics",6262,Standard kit,Wash,Sub-kit,$299394,Active material
+S9999134,"Sub 4/6 AWD Kit, Periphery kit,Logistics",6262,Standard kit,Wash,Sub-kit,$558098,Active material
+S9999135,"Sub 5/6 AWD Kit, Periphery kit,Logistics",6266,Standard kit,Wash,Sub-kit,$1165944,Active material
+S9999136,"Sub 6/6 AWD Kit, Periphery kit,Logistics",6262,Standard kit,Wash,Sub-kit,$2531419,Active material
+S9999137,PP 1/3 (old 1/7)Periphery Renew S9903003,10829,Standard kit,Wash,Prepack,$314247,Active material
+S9999138,PP 2/3 (old 2/7)Periphery Renew S9903003,10712,Standard kit,Wash,Prepack,$204072,Active material
+S9999139,"PP 3/7 Periphery kit, Renewable S9903003",4161,Standard kit,Wash,Prepack,$77467,Active material
+S9999140,"PP 4/7 Periphery kit, Renewable S9903003",4161,Standard kit,Wash,Prepack,$47167,Active material
+S9999141,"PP 5/7 Periphery kit, Renewable S9903003",4161,Standard kit,Wash,Prepack,$47480,Active material
+S9999142,"PP 6/7 Periphery kit, Renewable S9903003",4161,Standard kit,Wash,Prepack,$47206,Active material
+S9999143,"PP 3/3 Periphery,Renewable",10832,Standard kit,Wash,Prepack,$70903,Active material
+S9999144,"AWD SUB 1/3 Periphery,Renewable",10712,Standard kit,Wash,Sub-kit,$1634190,Active material
+S9999145,"AWD SUB 2/3 Periphery,Renewable",10712,Standard kit,Wash,Sub-kit,$1641843,Active material
+S9999146,"AWD SUB 3/3 Periphery,Renewable",10712,Standard kit,Wash,Sub-kit,$1536700,Active material
+S9999147,"PP 1/1 AWD Periphery, Equipment",8798,Standard kit,Health,Prepack,$792956,Active material
+S9999149,"AWD BAG 1/1 Periphery,Renewable S9903003",5810,Standard kit,Wash,Bag,$5012,Active material
+S9999150,Prepack 1/1 Mozambique  Kit 2016,67904,Standard kit,Health,Prepack,$2773590,Active material
+S9999151,Prepack 1/3 Nigeria Kit 2017,21576,Country specific,Health,Prepack,$1556760,Active material
+S9999152,Prepack 2/4 Nigeria Kit 2017,21009,Country specific,Health,Prepack,$926461,Active material
+S9999153,Prepack 2/3 Nigeria Kit 2017,20009,Country specific,Health,Prepack,$2739248,Active material
+S9999154,Prepack 3/3 Nigeria Kit 2017,20708,Country specific,Health,Prepack,$1409911,Active material
+S9999199,Education PP 2 for SIC/SIB no globe,7186,Standard kit,Education,Prepack,$83785,Active material
+S9999299,"BAG for 50 x S0322010 CH12,ster,disp",17170,Standard kit,Midwifery,Bag,$80654,Active material
+S9999491,"Subkit 1/3 Sudan,Primary Healthcare2016",4487,Country specific,Health,Sub-kit,$2162423,Active material
+S9999492,"Subkit 2/3 Sudan,Primary Healthcare2016",4587,Country specific,Health,Sub-kit,$1309532,Active material
+S9999493,"Subkit 3/3 Sudan,Primary Healthcare2016",4587,Country specific,Health,Sub-kit,$278755,Active material
+S9999494,"Prepack 1/3 Sudan,Primary Healthcare2016",4687,Country specific,Health,Prepack,$511032,Active material
+S9999495,"Prepack 2/3 Sudan,Primary Healthcare2016",4867,Country specific,Health,Prepack,$682354,Active material
+S9999496,"Prepack 3/3 Sudan,Primary Healthcare2016",4844,Country specific,Health,Prepack,$433765,Active material
+S9999497,"Prepack 10/12 Syria SEDL Basic kit, 2014",144,Country specific,Health,Prepack,$18784,Active material
+S9999498,"Prepack 11/12 Syria SEDL Basic kit, 2014",144,Country specific,Health,Prepack,$9917,Active material
+S9999499,"Prepack 12/12 Syria SEDL Basic kit, 2014",144,Country specific,Health,Prepack,$8805,Active material
+S9999500,"Bag 1/1 Sudan Co. Midwife kit, 2016",6084,Country specific,Midwifery,Bag,$49246,Active material
+S9999501,"Prepack 1/2 Sudan Co. Midwife kit, 2016",6084,Country specific,Midwifery,Prepack,$210439,Active material
+S9999502,"Prepack 2/2 Sudan Co. Midwife kit, 2016",6084,Country specific,Midwifery,Prepack,$413520,Active material
+S9999503,"Bag 1/1 Sudan, IMCI Med. kit, 2016",4551,Country specific,Health,Bag,$26161,Active material
+S9999504,"Prepack 1/1 Sudan IMCI Med. kit, 2016",4482,Country specific,Health,Prepack,$170037,Active material
+S9999505,"Subkit 1/7 Sudan IMCI Med. kit, 2016",4402,Country specific,Health,Sub-kit,$3103341,Active material
+S9999506,"Subkit 2/7 Sudan IMCI Med. kit, 2016",4552,Country specific,Health,Sub-kit,$540692,Active material
+S9999507,"Subkit 3/7 Sudan IMCI Med. kit, 2016",4482,Country specific,Health,Sub-kit,$558996,Active material
+S9999511,Prepack 1/5 Pakistan HK S9906794 V2,1369,Country specific,Health,Prepack,$60741,Active material
+S9999512,Prepack 2/5 Pakistan HK S9906794 V2,1369,Country specific,Health,Prepack,$59121,Active material
+S9999513,Prepack 3/5 Pakistan HK S9906794 V2,1369,Country specific,Health,Prepack,$79169,Active material
+S9999514,Prepack 4/5 Pakistan HK S9906794 V2,1369,Country specific,Health,Prepack,$82095,Active material
+S9999515,Prepack 5/5 Pakistan HK S9906794 V2,1369,Country specific,Health,Prepack,$35097,Active material
+S9999521,Subkit 1/4 Pakistan HK S9906794 V2,1369,Country specific,Health,Sub-kit,$189356,Active material
+S9999522,Subkit 2/4 Pakistan HK S9906794 V2,1369,Country specific,Health,Sub-kit,$102718,Active material
+S9999523,Subkit 3/4 Pakistan HK S9906794 V2,1369,Country specific,Health,Sub-kit,$229771,Active material
+S9999524,Subkit 4/4 Pakistan HK S9906794 V2,1369,Country specific,Health,Sub-kit,$424504,Active material
+S9999591,"1/3PP Syria Paediatric Kit,2019 S9935090",15097,Country specific,Health,Prepack,$1000016,Active material
+S9999592,"2/3PP Syria Paediatric Kit,2019 S9935090",14197,Country specific,Health,Prepack,$702033,Active material
+S9999593,"3/3PP Syria Paediatric Kit,2019 S9935090",15097,Country specific,Health,Prepack,$303152,Active material
+S9999603,"Ethiopia Surg.inst.,delivery /SET",12032,Country specific,Health,Bag,$73205,Active material
+S9999604,"Ethiopia Surg.inst.,suture /SET",12026,Country specific,Health,Bag,$78646,Active material
+S9999621,Subkit 1/2 Paediatric kit for Syria 2014,37460,Country specific,Health,Sub-kit,$2193639,Active material
+S9999622,Subkit 2/2 Paediatric kit for Syria 2014,37460,Country specific,Health,Sub-kit,$2560088,Active material
+S9999623,Prepack 1/1 Paediatric kit Syria 2014,37460,Country specific,Health,Prepack,$863351,Active material
+S9999629,"Subkit 1/2 Zimbabwe,PHC package,2015",10535,Country specific,Health,Sub-kit,$2086368,Active material
+S9999630,"Subkit 2/2 Zimbabwe,PHC package,2015",10135,Country specific,Health,Sub-kit,$2804197,Active material
+S9999631,"Subkit 1/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$126347,Active material
+S9999632,"Subkit 2/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$190541,Active material
+S9999633,"Subkit 3/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$267723,Active material
+S9999634,"Subkit 4/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$232289,Active material
+S9999635,"Subkit 5/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$165883,Active material
+S9999636,"Subkit 6/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$149999,Active material
+S9999637,"Subkit 7/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$180913,Active material
+S9999638,"Subkit 8/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$241119,Active material
+S9999639,"Subkit 9/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$376756,Active material
+S9999640,"Subkit 10/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$123232,Active material
+S9999641,"Subkit 11/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$61678,Active material
+S9999642,"Subkit 12/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$197003,Active material
+S9999643,"Subkit 13/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$454376,Active material
+S9999644,"Subkit 14/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$557237,Active material
+S9999645,"Subkit 15/15 Syria SEDL Basic kit, 2014",716,Country specific,Health,Sub-kit,$861253,Active material
+S9999646,"Subkit 1/2 Zimbabwe,PHC package,2016",3262,Country specific,Health,Sub-kit,$618119,Active material
+S9999647,"Subkit 2/2 Zimbabwe,PHC package,2016",3262,Country specific,Health,Sub-kit,$719688,Active material
+S9999651,"Prepack 1/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$38023,Active material
+S9999652,"Prepack 2/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$96971,Active material
+S9999653,"Prepack 3/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$46528,Active material
+S9999654,"Prepack 4/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$25168,Active material
+S9999655,"Prepack 5/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$25171,Active material
+S9999656,"Prepack 6/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$98543,Active material
+S9999657,"Prepack 7/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$104733,Active material
+S9999658,"Prepack 8/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$120954,Active material
+S9999659,"Prepack 9/12 Syria SEDL Basic kit, 2014",716,Country specific,Health,Prepack,$89707,Active material
+S9999661,"Prepack 1/2 Zimbabwe,PHC package,2015",10135,Country specific,Health,Prepack,$251312,Active material
+S9999662,"Prepack 2/2 Zimbabwe,PHC package,2015",10135,Country specific,Health,Prepack,$795581,Active material
+S9999663,"Prepack 1/2 Zimbabwe,PHC package,2016",3262,Country specific,Health,Prepack,$129130,Active material
+S9999664,"Prepack 2/2 Zimbabwe,PHC package,2016",3262,Country specific,Health,Prepack,$233837,Active material
+S9999667,Prepack 1/3 Pakistan Health Kit,2560,Country specific,Health,Prepack,$32074,Active material
+S9999668,Prepack 2/3 Pakistan Health Kit,2560,Country specific,Health,Prepack,$37973,Active material
+S9999669,Prepack 3/3 Pakistan Health Kit,2560,Country specific,Health,Prepack,$185580,Active material
+S9999671,"Subkit 1/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$13084,Active material
+S9999672,"Subkit 2/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$12822,Active material
+S9999673,"Subkit 3/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$12822,Active material
+S9999674,"Subkit 4/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$13104,Active material
+S9999675,"Subkit 5/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$13094,Active material
+S9999676,"Subkit 6/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$12154,Active material
+S9999677,"Subkit 7/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$12154,Active material
+S9999678,"Subkit 8/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$56102,Active material
+S9999679,"Subkit 9/13 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Sub-kit,$160732,Active material
+S9999680,"Subkit 10/13 Syria SEDL Suppl. 1 kit,201",384,Country specific,Health,Sub-kit,$146546,Active material
+S9999681,"Subkit 11/13 Syria SEDL Suppl.1 kit,2014",384,Country specific,Health,Sub-kit,$119552,Active material
+S9999682,"Subkit 12/13 Syria SEDL Suppl.1 kit,2014",384,Country specific,Health,Sub-kit,$152716,Active material
+S9999683,"Subkit 13/13 Syria SEDL Suppl.1 kit,2014",384,Country specific,Health,Sub-kit,$102469,Active material
+S9999684,"Prepack 1/3 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Prepack,$49551,Active material
+S9999685,"Prepack 2/3 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Prepack,$72088,Active material
+S9999686,"Prepack 3/3 Syria SEDL Suppl. 1 kit,2014",384,Country specific,Health,Prepack,$19768,Active material
+S9999691,"Prepack 1/4 Mali, in-patient CMAM kit",345,Country specific,Health,Prepack,$18227,Active material
+S9999692,"Prepack 2/4 Mali, in-patient CMAM kit",345,Country specific,Health,Prepack,$15786,Active material
+S9999693,"Prepack 3/4 Mali, in-patient CMAM kit",328,Country specific,Health,Prepack,$2393,Active material
+S9999694,"Prepack 4/4 Mali, in-patient CMAM kit",328,Country specific,Health,Prepack,$38269,Active material
+S9999696,Prepack 3/4 DPRK EM kit 2014,22687,Country specific,Health,Prepack,$1184754,Active material
+S9999697,Prepack 4/4 DPRK EM kit 2014,22687,Country specific,Health,Prepack,$1607056,Active material
+S9999701,"Subkit 1/2 Ethiopia Midwifery,S9906706",7925,Country specific,Midwifery,Sub-kit,$1308321,Active material
+S9999702,"Subkit 2/2 Ethiopia Midwifery,S9906706",7925,Country specific,Midwifery,Sub-kit,$347043,Active material
+S9999703,"Prepack 1/3 Ethiopia Midwifery,S9906706",7925,Country specific,Midwifery,Prepack,$424748,Active material
+S9999704,"Prepack 2/3 Ethiopia Midwifery,S9906706",7925,Country specific,Midwifery,Prepack,$345099,Active material
+S9999705,"Prepack 3/3 Ethiopia Midwifery,S9906706",7925,Country specific,Midwifery,Prepack,$76692,Active material
+S9999706,Prepack 1/1  DRC Health Centre kit 2016,340,Standard kit,Health,Prepack,$29519,Active material
+S9999707,Subkit  1/4 DRC Health Centre kit 2016,340,Country specific,Health,Sub-kit,$106461,Active material
+S9999708,Subkit 2/4 DRC Health Centre kit 2016,340,Country specific,Health,Sub-kit,$57310,Active material
+S9999709,Subkit 3/4 DRC Health Centre kit 2016,340,Country specific,Health,Sub-kit,$25653,Active material
+S9999710,Subkit 4/4 DRC Health Centre kit 2016,340,Country specific,Health,Sub-kit,$44625,Active material
+S9999711,Subkit 1/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$119377,Active material
+S9999712,Subkit 2/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$103873,Active material
+S9999713,Subkit 3/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$113256,Active material
+S9999714,Subkit 4/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$118280,Active material
+S9999715,Subkit 5/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$69053,Active material
+S9999716,Subkit 6/6 Ethiopia Obstet.S9906707,550,Country specific,Health,Sub-kit,$135174,Active material
+S9999717,Prepack 1/2 Ethiopia Obstet.S9906707,550,Country specific,Health,Prepack,$16528,Active material
+S9999718,Prepack 2/2 Ethiopia Obstet.S9906707,280,Country specific,Health,Prepack,$11922,Active material
+S9999721,Subkit 1/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$192166,Active material
+S9999722,Subkit 2/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$271501,Active material
+S9999723,Subkit 3/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$358002,Active material
+S9999724,Subkit 4/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$292959,Active material
+S9999725,Subkit 5/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$146159,Active material
+S9999726,Subkit 6/6 Ethiopia IEHK renew S9906708,3006,Country specific,Health,Sub-kit,$655566,Active material
+S9999727,Subkit 7/7 Ethiopia IEHK renew S9906708,210,Country specific,Health,Sub-kit,$8440,Active material
+S9999728,Prepa. 1/2 Ethiopia IEHK renew S9906708,3057,Standard kit,Health,Prepack,$43777,Active material
+S9999729,Prepa. 2/2 Ethiopia IEHK renew S9906708,3006,Standard kit,Health,Prepack,$292642,Active material
+S9999731,Bag 1/2 Ethiopia for S9906704 Res.kit,180,Country specific,Health,Bag,$381,Active material
+S9999732,Bag 2/2 Ethiopia for S9906704 Res.kit,180,Country specific,Health,Bag,$422,Active material
+S9999741,Subkit 1/2 Ethiopia Ster. kit C S9906700,3,Country specific,Sterilization,Sub-kit,$418,Active material
+S9999742,Subkit 2/2 Ethiopia Ster. kit C S9906700,3,Country specific,Health,Sub-kit,$1295,Active material
+S9999751,"Subkit 1/6 Mali, in-patient CMAM kit",345,Country specific,Health,Sub-kit,$77715,Active material
+S9999752,"Subkit 2/6 Mali, in-patient CMAM kit",328,Country specific,Health,Sub-kit,$83451,Active material
+S9999753,"Subkit 3/6 Mali, in-patient CMAM kit",345,Country specific,Health,Sub-kit,$131725,Active material
+S9999754,"Subkit 4/6 Mali, in-patient CMAM kit",328,Country specific,Health,Sub-kit,$58853,Active material
+S9999755,"Subkit 5/6 Mali, in-patient CMAM kit",328,Country specific,Health,Sub-kit,$5028,Active material
+S9999756,"Subkit 6/6 Mali, in-patient CMAM kit",328,Country specific,Health,Sub-kit,$8983,Active material
+S9999757,"Subkit 7/7 Mali, in-patient CMAM kit",271,Country specific,Health,Sub-kit,$4127,Active material
+S9999760,Prepack1/1 Ethiopia Mid.2-Equip.,5266,Country specific,Midwifery,Prepack,$392508,Active material
+S9999761,Prepack1/1 Ethiopia Mid.2-Equip.S9906718,7113,Country specific,Midwifery,Prepack,$537071,Active material
+S9999766,Subkit 1/2 S9902301 Nigeria Kit 2014,35477,Country specific,Health,Sub-kit,$16865153,Active material
+S9999767,Subkit 2/2 S9902301 Nigeria Kit 2014,35877,Country specific,Health,Sub-kit,$1482367,Active material
+S9999770,"Subkit 7/7 Malawi,PHC Phase II,V 2014",685,Country specific,Health,Sub-kit,$197952,Active material
+S9999771,"Subkit 1/7 Malawi,PHC Phase II,V 2014",2608,Country specific,Health,Sub-kit,$554915,Active material
+S9999773,"Subkit 3/7 Malawi,PHC Phase II,V 2014",2608,Country specific,Health,Sub-kit,$878189,Active material
+S9999774,"Subkit 4/7 Malawi,PHC Phase II,V 2014",2608,Country specific,Health,Sub-kit,$591581,Active material
+S9999775,"Subkit 5/7 Malawi,PHC Phase II,V 2014",2608,Country specific,Health,Sub-kit,$136205,Active material
+S9999776,"Subkit 6/7 Malawi,PHC Phase II,V 2014",2608,Country specific,Health,Sub-kit,$461984,Active material
+S9999778,"prepack 1/2 Zimbabwe,PHC 2013",12620,Country specific,Health,Prepack,$914536,Active material
+S9999779,"Prepack 2/2 Zimbabwe,PHC, 2013",12620,Country specific,Health,Prepack,$246472,Active material
+S9999780,prepack 5/5 Malawi 2012 S9906779,3502,Country specific,Health,Prepack,$76904,Active material
+S9999781,Prepack 1/4 Malawi 2014 S9906786,5208,Country specific,Health,Prepack,$469371,Active material
+S9999782,Prepack 1/3 Malawi 2014 S9906787,6534,Country specific,Health,Prepack,$822997,Active material
+S9999783,Prepack 2/3 Malawi 2014 S9906787,4752,Country specific,Health,Prepack,$274501,Active material
+S9999784,Prepack 3/3 Malawi 2014 S9906787,5676,Country specific,Health,Prepack,$122274,Active material
+S9999786,Prepack 1/3 IEHK suppl.3-renew S9906627,1159,Standard kit,Health,Prepack,$17272,Active material
+S9999787,Prepack 2/3 IEHK suppl.3-renew S9906627,1159,Country specific,Health,Prepack,$50862,Active material
+S9999788,Prepack 3/3 IEHK suppl.3-renew S9906627,1159,Standard kit,Health,Prepack,$7342,Active material
+S9999789,Prepack 1/1 S9902301 Nigeria Kit 2014,35877,Country specific,Health,Prepack,$2501310,Active material
+S9999790,"prepack 1/1 Zimbabwe,PHC 2014",13860,Country specific,Health,Prepack,$1171655,Active material
+S9999791,"Prepack 1/3 Sudan Juba, PHCC kit",1144,Country specific,Health,Prepack,$122514,Active material
+S9999792,"Prepack 2/3 Sudan Juba, PHCC kit",1101,Country specific,Health,Prepack,$157328,Active material
+S9999793,"Prepack 3/3 Sudan Juba, PHCC kit",1101,Country specific,Health,Prepack,$22261,Active material
+S9999794,Prepack 1/4 DPRK EM kit 2014,32712,Country specific,Health,Prepack,$1599483,Active material
+S9999795,Prepack 2/4 DPRK EM kit 2014,32712,Country specific,Health,Prepack,$1303066,Active material
+S9999796,"Prepack 1/3 Sudan Juba, PHCU kit",1318,Country specific,Health,Prepack,$111740,Active material
+S9999797,"Prepack 2/3 Sudan Juba, PHCU kit",1278,Country specific,Health,Prepack,$156204,Active material
+S9999798,"Prepack 3/3 Sudan Juba, PHCU kit",1278,Country specific,Health,Prepack,$39872,Active material
+S9999800,"Prepack 1/1 Somalia,PHU Renew. 2013",555,Country specific,Health,Prepack,$23005,Active material
+S9999802,"Prepack 1/1 Somalia,HC equip.2013",974,Country specific,Health,Prepack,$16320,Active material
+S9999803,"Prepack 1/2 Somalia,HC Renew. 2013",1549,Country specific,Health,Prepack,$106470,Active material
+S9999804,"Prepack 2/2 Somalia,HC Renew. 2013",1589,Country specific,Health,Prepack,$41034,Active material
+S9999805,"Prepack 1/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$288408,Active material
+S9999806,"Prepack 2/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$254207,Active material
+S9999807,"Prepack 3/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$203989,Active material
+S9999808,"Prepack 4/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$215480,Active material
+S9999809,"Prepack 5/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$368894,Active material
+S9999810,"Prepack 6/8 S9906783 Somalia,HC Kit 2013",2434,Country specific,Health,Prepack,$220547,Active material
+S9999811,"Prepack 1/5 S9906775 Somalia,PHU Kit2013",1182,Country specific,Health,Prepack,$15660,Active material
+S9999812,"Prepack 2/5 S9906775 Somalia,PHU Kit2013",1182,Country specific,Health,Prepack,$79623,Active material
+S9999813,"Prepack 3/5 S9906775 Somalia,PHU Kit2013",591,Country specific,Health,Prepack,$82376,Active material
+S9999814,"Prepack 4/5 S9906775 Somalia,PHU Kit2013",591,Country specific,Health,Prepack,$54745,Active material
+S9999815,"Prepack 5/5 S9906775 Somalia,PHU Kit2013",591,Country specific,Health,Prepack,$14147,Active material
+S9999817,"Prepack 7/8 S9906783 Somalia,HC Kit 2013",4868,Country specific,Health,Prepack,$58120,Active material
+S9999818,"Prepack 8/8 S9906783 Somalia,HC Kit 2013",2335,Country specific,Health,Prepack,$65361,Active material
+S9999819,Prepack 1/2 DPRK EM kit 2018,16760,Country specific,Health,Prepack,$1197036,Active material
+S9999820,Prepack 2/2 DPRK EM kit 2018,16450,Country specific,Health,Prepack,$1384313,Active material
+S9999821,Subkit 1/3 S9906775 Somalia PHU Kit 2013,591,Country specific,Health,Sub-kit,$111024,Active material
+S9999822,Subkit 2/3 S9906775 Somalia PHU Kit 2013,591,Country specific,Health,Sub-kit,$243562,Active material
+S9999823,Subkit 3/3 S9906775 Somalia PHU Kit 2013,591,Country specific,Health,Sub-kit,$111904,Active material
+S9999824,Subkit 1/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$782705,Active material
+S9999825,Subkit 2/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$579244,Active material
+S9999826,Subkit 3/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$1240659,Active material
+S9999827,Subkit 4/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$683894,Active material
+S9999828,Subkit 5/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$1084100,Active material
+S9999829,Subkit 6/6 S9906783 Somalia HC Kit 2013,2434,Country specific,Health,Sub-kit,$1154621,Active material
+S9999831,"Subkit 1/3 Somalia,PHU Equip. 2013",208,Country specific,Health,Sub-kit,$7015,Active material
+S9999832,"Subkit 2/3 Somalia,PHU Equip. 2013",208,Country specific,Health,Sub-kit,$26711,Active material
+S9999833,"Subkit 3/3 Somalia,PHU Equip. 2013",208,Country specific,Health,Sub-kit,$16169,Active material
+S9999835,"Subkit 2/3 Somalia,HC Equip.2013",974,Country specific,Health,Sub-kit,$127118,Active material
+S9999836,"Subkit 3/3 Somalia,HC Equip.2013",974,Country specific,Health,Sub-kit,$72212,Active material
+S9999837,"Subkit 1/3 Somalia,HC kit-renew.2013",1549,Country specific,Health,Sub-kit,$323829,Active material
+S9999838,"Subkit 2/3 Somalia,HC kit-renew.2013",1549,Country specific,Health,Sub-kit,$284216,Active material
+S9999839,"Subkit 3/3 Somalia,HC kit-renew.2013",1549,Country specific,Health,Sub-kit,$317595,Active material
+S9999841,"Subkit 1/4 S9902217 Midwifery kit,1-drug",44416,Standard kit,Midwifery,Sub-kit,$12359296,Active material
+S9999842,"Subkit 2/4 S9902217 Midwifery kit,1-drug",44733,Standard kit,Midwifery,Sub-kit,$632098,Active material
+S9999843,"Subkit 3/4 S9902217 Midwifery kit,1-drug",44734,Standard kit,Midwifery,Sub-kit,$618000,Active material
+S9999844,"Subkit 4/4 S9902217 Midwifery kit,1-drug",44733,Standard kit,Midwifery,Sub-kit,$593092,Active material
+S9999849,DRC Regional Hospital Kit 1/2,66,Country specific,Health,Sub-kit,$17955,Active material
+S9999850,DRC Regional Hospital Kit 2/2,66,Country specific,Health,Sub-kit,$50926,Active material
+S9999851,DRC Regional Hospital Phase 2 Kit 1/2,93,Country specific,Health,Sub-kit,$26839,Active material
+S9999852,DRC Regional Hospital Phase 2 Kit 2/2,93,Country specific,Health,Sub-kit,$71005,Active material
+S9999854,"Bag 1/1 Somalia,HC Renew. 2013",1649,Country specific,surgical,Bag,$2505,Active material
+S9999856,"Bag 1/1 IEHK Basic, S9906621",14196,Standard kit,Health,Bag,$212920,Active material
+S9999857,"Bag 1/3 Surg.inst.,abdominal S9910000",10793,Standard kit,surgical,Bag,$246632,Active material
+S9999858,"Bag 2/3 Surg.inst.,abdominal S9910000",10791,Standard kit,surgical,Bag,$178193,Active material
+S9999859,"Bag 3/3 Surg.inst.,abdominal S9910000",10790,Standard kit,surgical,Bag,$248357,Active material
+S9999861,"Bag 1/2 for S9908400 Resuscit.kit,basic",19008,Standard kit,Resuscitation,Bag,$28123,Active material
+S9999862,"Bag 2/2 for S9908400 Resuscit.kit,basic",18608,Standard kit,Resuscitation,Bag,$29994,Active material
+S9999863,"Subkit 1/3 Sudan Juba, PHCU kit",1278,Country specific,Health,Sub-kit,$558786,Active material
+S9999864,"Subkit 2/3 Sudan Juba, PHCU kit",1278,Country specific,Health,Sub-kit,$348370,Active material
+S9999865,"Subkit 3/3 Sudan Juba, PHCU kit",1278,Country specific,Health,Sub-kit,$77208,Active material
+S9999866,"Subkit 1/11 Sudan Juba, PHCC kit",1101,Country specific,Health,Sub-kit,$821915,Active material
+S9999867,"Subkit 2/11 Sudan Juba, PHCC kit",1101,Country specific,Health,Sub-kit,$216564,Active material
+S9999868,"Subkit 3/11 Sudan Juba, PHCC kit",1101,Country specific,Health,Sub-kit,$466638,Active material
+S9999869,"Subkit 4/11 Sudan Juba, PHCC kit",1101,Country specific,Health,Sub-kit,$147877,Active material
+S9999870,"Prepack 1/3 - DRC HCK 2013-V3, S9906727",40,Country specific,Health,Prepack,$554,Active material
+S9999871,"Prepack 2/3 - DRC HCK 2013-V3, S9906727",40,Country specific,Health,Prepack,$425,Active material
+S9999872,"Prepack 3/3 - DRC HCK 2013-V3, S9906727",40,Country specific,Health,Prepack,$268,Active material
+S9999876,Subkit 1/5 IEHK suppl.3-renew S9906627,1159,Standard kit,Health,Sub-kit,$144861,Active material
+S9999877,Subkit 2/5 IEHK suppl.3-renew S9906627,1159,Country specific,Health,Sub-kit,$95773,Active material
+S9999878,Subkit 3/5 IEHK suppl.3-renew S9906627,1159,Country specific,Health,Sub-kit,$143698,Active material
+S9999879,Subkit 4/5 IEHK suppl.3-renew S9906627,1159,Country specific,Health,Sub-kit,$147127,Active material
+S9999880,Subkit 5/5 IEHK suppl.3-renew S9906627,1159,Country specific,Health,Sub-kit,$118118,Active material
+S9999881,Subkit 1/6 Obstetric 3-renew.S9908302,8205,Standard kit,Obstetric,Sub-kit,$1843902,Active material
+S9999882,Subkit 2/6 Obstetric 3-renew.S9908302,8181,Standard kit,Obstetric,Sub-kit,$1442005,Active material
+S9999883,Subkit 3/6 Obstetric 3-renew.S9908302,8201,Standard kit,Obstetric,Sub-kit,$1535053,Active material
+S9999884,Subkit 4/6 Obstetric 3-renew.S9908302,8201,Standard kit,Obstetric,Sub-kit,$1967572,Active material
+S9999885,Subkit 5/6 Obstetric 3-renew.S9908302,8201,Standard kit,Obstetric,Sub-kit,$949638,Active material
+S9999886,Subkit 6/6 Obstetric 3-renew.S9908302,8201,Standard kit,Obstetric,Sub-kit,$1605700,Active material
+S9999887,Bag 1/1 Myanmar MW/SC 2015 – S9906795,4776,Country specific,Health,Bag,$14328,Active material
+S9999889,"Part 1/2 Obstetric,surgical kit S9908300",2066,Standard kit,Obstetric,Sub-kit,$3353713,Active material
+S9999890,"Part 2/2 Obstetric,surgical kit S9908300",2063,Standard kit,Obstetric,Sub-kit,$633126,Active material
+S9999891,Part 1/7 Diarrhoeal kit,1925,Standard kit,Wash,Sub-kit,$1818389,Active material
+S9999892,Part 2/7 Diarrhoeal kit,1925,Standard kit,Wash,Sub-kit,$459975,Active material
+S9999893,Part 3/7 Diarrhoeal kit,1925,Standard kit,Wash,Sub-kit,$458437,Active material
+S9999894,Part 4/7 Diarrhoeal kit,1925,Standard kit,Wash,Sub-kit,$459635,Active material
+S9999895,Part 5/7 Diarrhoeal kit,1919,Standard kit,Wash,Sub-kit,$1416676,Active material
+S9999896,Part 6/7 Diarrhoeal kit,1939,Standard kit,Wash,Sub-kit,$1444328,Active material
+S9999897,Part 7/7 Diarrhoeal kit,1918,Standard kit,Wash,Sub-kit,$1417057,Active material
+S9999898,"Subkit 1/2 Midwifery ,3-renew S9902219",56145,Standard kit,Midwifery,Sub-kit,$7933255,Active material
+S9999899,"Subkit 2/2 Midwifery ,3-renew S9902219",56119,Standard kit,Midwifery,Sub-kit,$5174521,Active material
+S9999901,"Subkit 1/8 Malawi,PHC Phase I,V 2014",4784,Country specific,Health,Sub-kit,$2041886,Active material
+S9999902,"Subkit 2/8 Malawi,PHC Phase I,V 2014",5708,Country specific,Health,Sub-kit,$1398832,Active material
+S9999904,"Subkit 4/8 Malawi,PHC Phase I,V 2014",3926,Country specific,Health,Sub-kit,$1609736,Active material
+S9999905,"Subkit 5/8 Malawi,PHC Phase I,V 2014",4784,Country specific,Health,Sub-kit,$244957,Active material
+S9999906,"Subkit 6/8 Malawi,PHC Phase I,V 2014",4784,Country specific,Health,Sub-kit,$71591,Active material
+S9999907,"Subkit 7/8 Malawi,PHC Phase I,V 2014",4784,Country specific,Health,Sub-kit,$74397,Active material
+S9999908,Subkit 1/2 IEHK Basic.S9906621,12434,Standard kit,Health,Sub-kit,$2415831,Active material
+S9999909,Subkit 2/2 IEHK Basic.S9906621,12434,Country specific,Health,Sub-kit,$1871933,Active material
+S9999910,"Subkit 8/8 Malawi,PHC Phase I,V 2014",1282,Country specific,Health,Sub-kit,$223623,Active material
+S9999911,"Subkit 1/4 IEHK2006,1-drugs S9906623",1966,Standard kit,Health,Sub-kit,$1974069,Active material
+S9999912,"Subkit 2/4 IEHK2006,1-drugs S9906623",1966,Country specific,Health,Sub-kit,$1308818,Active material
+S9999913,"Subkit 3/4 IEHK2006,1-drugs S9906623",1966,Country specific,Health,Sub-kit,$405627,Active material
+S9999914,"Subkit 4/4 IEHK2006,1-drugs S9906623",696,Country specific,Health,Sub-kit,$271715,Active material
+S9999918,Subkit 2/3 IEHK 2.Equip.S9906626,1857,Country specific,Health,Sub-kit,$425740,Active material
+S9999919,Subkit 3/3 IEHK 2.Equip.S9906626,1857,Country specific,Health,Sub-kit,$471450,Active material
+S9999920,Bag DPRK HHD 2018,3122,Country specific,Health,Bag,$11031,Active material
+S9999921,Prepack 1/2 DPRK HHD 2018,9641,Country specific,Health,Prepack,$353238,Active material
+S9999922,Prepack 2/2 DPRK HHD 2018,9641,Country specific,Health,Prepack,$299041,Active material
+S9999923,"Subkit 1/2 Sterilization, kit C S9908200",11429,Standard kit,Sterilization,Sub-kit,$1406990,Active material
+S9999924,"Subkit 2/2 Sterilization, kit C S9908200",11429,Standard kit,Sterilization,Sub-kit,$5133208,Active material
+S9999931,Subkit 1/2 for Diarrhoeal kit S9906730,1980,Standard kit,Wash,Sub-kit,$606191,Active material
+S9999933,Prepack 1/1 School in a Bag,42375,Standard kit,Education,Prepack,$329507,Active material
+S9999938,Prepack 1/2 Obstetric 3-renew. S9908302,8381,Standard kit,Obstetric,Prepack,$103560,Active material
+S9999939,Prepack 2/2 Obstetric 3-renew. S9908302,8651,Standard kit,Obstetric,Prepack,$334305,Active material
+S9999940,Prepack 3/3Midwifery-renewable S9902219,55717,Standard kit,Midwifery,Prepack,$471748,Active material
+S9999941,Prepack 1/3Midwifery-renewable S9902219,55917,Standard kit,Midwifery,Prepack,$2464106,Active material
+S9999942,Prepack 2/3Midwifery-renewable S9902219,56619,Standard kit,Midwifery,Prepack,$1364833,Active material
+S9999944,"Prepack 1/2 Obstetric,surgical kit,suppl",6964,Standard kit,Obstetric,Prepack,$891164,Active material
+S9999945,"Prepack 2/2 Obstetric,surgical kit,suppl",6900,Standard kit,Obstetric,Prepack,$1845917,Active material
+S9999946,"Prepack 1/3 IEHK2006,1-drugs S9906623",2062,Standard kit,Health,Prepack,$444144,Active material
+S9999947,"Prepack 2/3 IEHK2006,1-drugs S9906623",2062,Country specific,Health,Prepack,$511981,Active material
+S9999948,"Prepack 3/3 IEHK2006,1-drugs S9906623",2062,Standard kit,Health,Prepack,$124421,Active material
+S9999951,"Prepack 1/2 Somalia, PHU Kit(A1)S9906770",1349,Country specific,Health,Prepack,$10925,Active material
+S9999952,"Prepack 2/2 Somalia, PHU Kit(A1)S9906770",1349,Country specific,Health,Prepack,$167635,Active material
+S9999953,"Prepack 1/2 Somalia, HC Kit (B1) S990672",619,Country specific,Health,Prepack,$5254,Active material
+S9999954,"Prepack 2/2 Somalia, HC Kit (B1)S9906772",619,Country specific,Health,Prepack,$31419,Active material
+S9999957,Prepack 1/1 Midwifery 2-Equip S9902221,24661,Standard kit,Midwifery,Prepack,$2196582,Active material
+S9999961,"Prepack 1/3 IEHK Basic, S9906621",13514,Standard kit,Health,Prepack,$338902,Active material
+S9999963,"Prepack 3/3 IEHK Basic, S9906621",14284,Standard kit,Health,Prepack,$501170,Active material
+S9999965,"Prepack 1/2 Zimbabwe,PHC,version 2011",15246,Country specific,Health,Prepack,$1068518,Active material
+S9999966,"Prepack 2/2 Zimbabwe,PHC,version 2011",15246,Country specific,Health,Prepack,$925125,Active material
+S9999967,Prepack 1/3 Diarrhoeal kit S9906730,2006,Standard kit,Wash,Prepack,$13214,Active material
+S9999968,Prepack 2/3 Diarrhoeal kit S9906730,2001,Standard kit,Wash,Prepack,$104649,Active material
+S9999969,Prepack 3/3 Diarrhoeal kit S9906730,2001,Standard kit,Wash,Prepack,$13616,Active material
+S9999971,Sub 9/10 Obstetric S9908300(i) part 9,570,Standard kit,Obstetric,Sub-kit,$235310,Active material
+S9999972,Sub 6/10 Obstetric S9908300(i) part 6,765,Standard kit,Obstetric,Sub-kit,$72501,Active material
+S9999973,Sub 5/10 Obstetric S9908300(i) part 5,4968,Standard kit,Obstetric,Sub-kit,$220340,Active material
+S9999974,Sub 10/10 Obstetric S9908300 part 10-42,4745,Standard kit,Obstetric,Sub-kit,$2135564,Active material
+S9999975,Sub 4/10 Obstetric S9908300(i) part 4,4908,Standard kit,Obstetric,Sub-kit,$217765,Active material
+S9999976,Sub 7/10 Obstetric S9908300(i) part 7,594,Standard kit,Obstetric,Sub-kit,$423371,Active material
+S9999977,Sub 8/10 Obstetric S9908300(i) part 8,625,Standard kit,Obstetric,Sub-kit,$263414,Active material
+S9999979,"E-p for S9935095, 84, 12, 98",22346,Standard kit,Education,Sub-kit,$204054,Active material
+S9999982,Prepack for ECD Kits,3319,Standard kit,Education,Prepack,$124586,Active material
+S9999985,"Prepack (Tubes S1510000, kit of 10)",77236,Standard kit,Obstetric,Prepack,$223253,Active material
+S9999986,Prepack for Recreation kits 2016,198597,Standard kit,Education,Prepack,$3550117,Active material
+S9999987,Prepack for ECD Kits  2016,174843,Standard kit,Education,Prepack,$4406996,Active material
+S9999988,Prepack for BISSAU 3RD TO 6TH YEAR KIT,244,Country specific,Education,Prepack,$1801,Active material
+S9999989,prepack 3 system-wise (not physical),202415,Standard kit,Education,Prepack,$674311,Active material
+S9999990,Education prepack 1 for new SIB  (I),278380,Standard kit,Education,Prepack,$5894579,Active material
+S9999991,Education prepack 2 for new SIB  (I),249894,Standard kit,Education,Prepack,$2927590,Active material
+S9999992,First Aid kit-prepack for S9975020   (I),152127,Standard kit,Health,Prepack,$674169,Active material
+S9999993,Sub 3/10 Obstetric S9908300(i) part 3,7032,Standard kit,Obstetric,Sub-kit,$2063111,Active material
+S9999994,Sub 2/10 Obstetric S9908300(i) part 2,7231,Standard kit,Obstetric,Sub-kit,$1800541,Active material
+S9999995,Sub 1/10 Obstetric S9908300(i) part 1,6997,Standard kit,Health,Sub-kit,$6176068,Active material
+S9999996,Recreation kit-prepack for 9935025   (I),6855,Standard kit,Education,Prepack,$89271,Active material

@@ -1,0 +1,8 @@
+id,Work_Area,per_hour_capacity,per_hour_unit,line_for_packaging,line_count
+1,Receiving,73.0,pallets,False,1
+2,Shipping,94.0,pallets,False,1
+3,Depalletizing_station,100.0,cartons,False,1
+4,Pre-pack_lines,300.0,cartons,False,1
+5,Pre-pick_station,54.0,pallets,False,1
+6,Long_line,300.0,cartons,True,2
+7,Mini_load,54.0,pallets,True,2

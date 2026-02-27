@@ -1,0 +1,467 @@
+kit_name,kit_description,kit_type,line_type
+S7901040,"ECHO IEHK 2024,Basic Med&Renewable UNIT",master,
+S7901044,"ECHO IEHK 2024,Suppl Med Inj UNIT",master,
+S7901050,"ECHO IEHK 2024,Suppl Renewable UNIT",master,
+S7901051,"ECHO IEHK 2024,Suppl Equipment UNIT",master,
+S7903003,"ECHO AWD, Periphery kit, Renewable",master,
+S9901040,"IEHK 2024,Basic Medicine&Renewable UNIT",master,
+S9901041,"IEHK 2024,Basic Malaria UNIT",master,long line
+S9901042,"IEHK 2024,Basic Equipment UNIT",master,long line
+S9901043,"IEHK 2024,Suppl. Medicine Oral UNIT",master,
+S9901044,"IEHK 2024,Suppl. Medicine Inj. UNIT",master,
+S9901045,"IEHK 2024,Suppl. Med Mental Health UNIT",master,long line
+S9901046,"IEHK 2024,Suppl Medicine Controlled UNIT",master,long line
+S9901047,"IEHK 2024,Suppl Medicine Cold Chain UNIT",master,long line
+S9901048,"IEHK 2024,Suppl. Malaria UNIT",master,
+S9901049,"IEHK 2024,Suppl. PEP Unit",master,long line
+S9901050,"IEHK 2024,Suppl. Renewable UNIT",master,
+S9901051,"IEHK 2024,Suppl. Equipment UNIT",master,
+S9902217,"Midwifery kit,1-drugs",master,
+S9902219,"Midwifery kit,3-renewable",master,
+S9902220,"Midwifery kit,suppl.1a-drugs",master,long line
+S9902221,"Midwifery kit – equipment, 2",master,long line
+S9902302,Nigeria Kit 2017,master,long line
+S9902410,"NBK,Community,Part B, Module 1,Medicines",master,
+S9902420,"NBK,Community,Part B, Module 2,Equipment",master,long line
+S9902430,"NBK, Clinic, Module 1, Medicines",master,
+S9902440,"NBK, Clinic, Module 2, Consumables",master,
+S9902450,"NBK, Clinic, Module 3, Equipment",master,
+S9902460,"NBK, Hospital, Module 1, Medicines",master,
+S9902470,"NBK, Hospital, Module 2, Consumables",master,
+S9902480,"NBK, Hospital, Module 3, Equipment",master,
+S9902600,Clean Delivery Kit,master,long line
+S9903000,"AWD, Community kit, Community Care",master,long line
+S9903001,"AWD Kit, Periphery kit, Logistics Part",master,
+S9903002,"AWD, Periphery kit, Equipment",master,long line
+S9903003,"AWD, Periphery kit, Renewable",master,
+S9903004,AWD Periphery kit Drug,master,
+S9903005,AWD Community Kit Drug,master,long line
+S9906706,Ethiopia Midwifery kit 3-renew,master,
+S9906708,"Ethiopia IEHK2011,kit,suppl.3-renew",master,
+S9906710,Ethiopia Emergency Drug kit 2019,master,
+S9906712,"Sudan, Primary Healthcare kit, 2016",master,
+S9906712,"SD, Primary Healthcare kit, 2016",master,
+S9906713,"Sudan, IMCI Medicine kit, 2016",master,
+S9906714,"Sudan Community Midwife kit, 2016",master,long line
+S9906719,DPRK EM Kit 2018,master,long line
+S9906728,DRC Health Centre kit 2016,master,long line
+S9906729,DRC Measles Kit 2021,master,
+S9906731,DPRK HHD Kit Refill 2018,master,long line
+S9906732,DPRK Household Doctors Kit 2018,master,long line
+S9906733,South Sudan PHCC Kit 2018 Basic Medicin,master,
+S9906734,"South Sudan, PHCU Kit 2018",master,
+S9906735,South Sudan PHCC Kit 2018-Injectables,master,
+S9906736,South Sudan PHCC Kit 2018- IV infusions,master,
+S9906737,South Sudan PHCC Kit 2018-Med Dev & Diag,master,
+S9906742,Mozambique Community Health Worker Kit,master,long line
+S9906753,"Nut kit,Inpatient, Ethiop.Mod. Med. Supp",master,
+S9906754,"Nutrition Kit, Anthropometric. ETH",master,
+S9906791,"Mali, in-patient CMAM kit, version 2014",master,
+S9906797,"Ethiopia Midwifery kit,2-equipment V2",master,long line
+S9906800,Yemen Primary Health Kit 2021-Basic meds,master,
+S9906801,Yemen Primary Health Kit2021-consumables,master,long line
+S9906802,Yemen Primary Health Kit 2021-Suppl meds,master,long line
+S9906804,"Yemen PHC kit 2025, Basic Medicines",master,
+S9906805,"Yemen PHC kit 2025, Supp. Medicines",master,
+S9906806,"Yemen PHC kit 2025, Consumables",master,
+S9906807,"Yemen PHC kit 2025, Supp. HC Medicines",master,
+S9908200,"Sterilization, kit C",master,
+S9908300,"Obstetric,surgical kit,suppl.1-drugs",master,
+S9908302,"Obstetric,surgical kit,suppl.3-renewable",master,
+S9908303,"Obstetric,surgical kit,suppl.1a-drugs",master,long line
+S9908305,"Obstetric,surgical kit,suppl.2-equipment",master,long line
+S9908402,"Resuscitation kit,basic",master,long line
+S9910000,"Surg.inst.,abdominal /SET",master,long line
+S9910001,"Surg.inst.,basic surgery /SET",master,long line
+S9910002,"Surg.inst.,curettage /SET",master,long line
+S9910003,"Surg.inst.,delivery /SET",master,long line
+S9910004,"Surg.inst.,suture /SET",master,long line
+S9910005,"Surg.inst.,dressing /SET",master,long line
+S9910006,"Surg.inst.,exam/sut,vaginal/cervical/SET",master,long line
+S9935011,"School-in-a-carton,40 students, 2016",master,long line
+S9935019,"School-in-a-bag kit,40 student,1 teacher",master,long line
+S9935024,"Recreation kit, 2016",master,long line
+S9935030,Recreation kit mini version,master,long line
+S9935034,"Recreation kit-in-a-carton, 2016",master,long line
+S9935051,"School-in-a-carton, Yemen",master,long line
+S9935064,"Early Childhood Dvt (ECD) kit, 2016",master,long line
+S9935065,"ECD kit-in-a-carton, 2016",master,long line
+S9935080,Arabic Student Kit Grade 1-4,master,long line
+S9935081,Arabic Student Kit Grade 5-8,master,long line
+S9935082,Arabic Teacher's Kit,master,long line
+S9935084,Syria Emergency School in a Carton Kit,master,long line
+S9935090,"Syria Paediatric Kit, 2019",master,long line
+S9935095,Replenishment kit for School-in-a-box,master,long line
+S9935097,"School-in-a-box,40 students, 2016",master,long line
+S9935099,Extra materials for School-in-a-box,master,long line
+S9935100,"School-in-a-carton, Ukraine",master,long line
+S9935101,"School-in-a-box, Ukraine",master,long line
+S9975020,First aid kit class A,master,long line
+S9999603,"Ethiopia Surg.inst.,delivery /SET",master,long line
+S9999604,"Ethiopia Surg.inst.,suture /SET",master,long line
+S7991151,"ECHO IEHK 2024,Suppl Med Inj UNIT P 2/2",prepack,miniload
+S9903002,"AWD, Periphery kit, Equipment",prepack,miniload
+S9910000,"Surg.inst.,abdominal /SET",prepack,miniload
+S9910002,"Surg.inst.,curettage /SET",prepack,miniload
+S9910006,"Surg.inst.,exam/sut,vaginal/cervical/SET",prepack,miniload
+S9986710,PP 3/3 F Sub 2/3 Yemen PHK S9906800,prepack,miniload
+S9986711,PP 1/5 F SUB 1/6 Ethiopia Emerg.S9906710,prepack,miniload
+S9986712,PP 2/5 F SUB 1/6 Ethiopia Emerg.S9906710,prepack,miniload
+S9986713,PP 3/5 F SUB 2/6 Ethiopia Emerg.S9906710,prepack,miniload
+S9986714,PP 4/5 F SUB 2/6 Ethiopia Emerg.S9906710,prepack,miniload
+S9986715,PP 5/5 F SUB 2/6 Ethiopia Emerg.S9906710,prepack,miniload
+S9986716,PP 1/3 F Sub 1/3 Yemen PHK S9906800,prepack,miniload
+S9986717,PP 2/3 F Sub 2/3 Yemen PHK S9906800,prepack,miniload
+S9986718,PP 1/2 F Yemen PHK-Suppl meds S9906802,prepack,miniload
+S9986719,P 2/2 F Yemen PHK-Suppl meds S9906802,prepack,miniload
+S9991044,"PP 1/2 IEHK 2024,Basic Medicine&Renewabl",prepack,miniload
+S9991045,"PP 2/2 IEHK 2024,Basic Medicine&Renewabl",prepack,miniload
+S9991046,"PP1 IEHK 2024,Basic Equipment UNIT",prepack,miniload
+S9991058,"PP 1/2 IEHK 2024,Suppl. Renewable UNIT",prepack,miniload
+S9991059,"PP 2/2 IEHK 2024,Suppl. Renewable UNIT",prepack,miniload
+S9991150,"PP 1/2 ml IEHK 2024,Suppl. Medicine Inj.",prepack,miniload
+S9991151,"PP 2/2 LL IEHK 2024,Suppl. Medicine Inj.",prepack,miniload
+S9992414,"PP 1/2 NBK, Hospital,Module 2,Consum",prepack,miniload
+S9992415,"PP 2/2 NBK, Hospital,Module 2,Consum",prepack,miniload
+S9992450,"PP 1/1 NBK, Clinic, Module 3, Equipment",prepack,miniload
+S9992480,"Bag NBK, Hospital, Module 3, Equ",prepack,miniload
+S9993730,PP5/5 f SUB 4/5 S.Sudan18 B.Med S9906733,prepack,miniload
+S9993736,PP1/5 f SUB 1/5 S.Sudan18 B.Med S9906733,prepack,miniload
+S9993737,PP2/5 f SUB 1/5 S.Sudan18 B.Med S9906733,prepack,miniload
+S9993738,PP3/5 f SUB 4/5 S.Sudan18 B.Med S9906733,prepack,miniload
+S9993739,PP4/5 f SUB 3/5 S.Sudan18 B.Med S9906733,prepack,miniload
+S9994735,"PP1/4 f Sub2/4 S.Sudan,PHCU Kit S9906734",prepack,miniload
+S9994736,"PP2/4 f Sub2/4 S.Sudan,PHCU Kit S9906734",prepack,miniload
+S9994737,"PP3/4 f Sub3/4 S.Sudan,PHCU Kit S9906734",prepack,miniload
+S9994738,"PP4/4 f Sub4/4 S.Sudan,PHCU Kit S9906734",prepack,miniload
+S9994921,"IEHK 2024,Suppl. PEP Unit sub1/3 Child",prepack,miniload
+S9994922,"IEHK 2024,Suppl. PEP Unit sub2/3 Adult",prepack,miniload
+S9994923,"IEHK 2024,Suppl. PEP Unit sub3/3 Adult",prepack,miniload
+S9996726,DRC Measles Kit 2021 PP 1/1,prepack,miniload
+S9996751,"Prepack. Nut kit,I Ethiop.Mod F S9906753",prepack,miniload
+S9996807,"PP S9996807 Yemen PHC kit 2025,Medicines",prepack,miniload
+S9997730,PP 2/2 F SUB 1/8 SSPHCC2018-Med S9906737,prepack,miniload
+S9997739,PP 1/2 F SUB 1/8 SSPHCC2018-Med S9906737,prepack,miniload
+S9998053,"PP 1/1 IEHK 2024,Suppl. Equipment UNIT",prepack,miniload
+S9999129,Prepack 1/1 Community Care,prepack,miniload
+S9999137,PP 1/3 (old 1/7)Periphery Renew S9903003,prepack,miniload
+S9999138,PP 2/3 (old 2/7)Periphery Renew S9903003,prepack,miniload
+S9999138,PP 2/3 (old 2/7)Periphery Renewable,prepack,miniload
+S9999143,"PP 3/3 Periphery,Renewable",prepack,miniload
+S9999147,"PP 1/1 AWD Periphery, Equipment",prepack,miniload
+S9999149,"AWD BAG 1/1 Periphery,Renewable S9903003",prepack,miniload
+S9999150,Prepack 1/1 Mozambique  Kit 2016,prepack,miniload
+S9999151,Prepack 1/3 Nigeria Kit 2017,prepack,miniload
+S9999153,Prepack 2/3 Nigeria Kit 2017,prepack,miniload
+S9999154,Prepack 3/3 Nigeria Kit 2017,prepack,miniload
+S9999199,Education PP 2 for SIC/SIB no globe,prepack,miniload
+S9999299,"BAG for 50 x S0322010 CH12,ster,disp",prepack,miniload
+S9999494,"Prepack 1/3 SD,Primary Healthcare2016",prepack,miniload
+S9999495,"Prepack 2/3 SD,Primary Healthcare2016",prepack,miniload
+S9999496,"Prepack 3/3 SD,Primary Healthcare2016",prepack,miniload
+S9999500,"Bag 1/1 Sudan Co. Midwife kit, 2016",prepack,miniload
+S9999501,"Prepack 1/2 Sudan Co. Midwife kit, 2016",prepack,miniload
+S9999502,"Prepack 2/2 Sudan Co. Midwife kit, 2016",prepack,miniload
+S9999503,"Bag 1/1 Sudan, IMCI Med. kit, 2016",prepack,miniload
+S9999504,"Prepack 1/1 Sudan IMCI Med. kit, 2016",prepack,miniload
+S9999591,"1/3PP Syria Paediatric Kit,2019 S9935090",prepack,miniload
+S9999592,"2/3PP Syria Paediatric Kit,2019 S9935090",prepack,miniload
+S9999593,"3/3PP Syria Paediatric Kit,2019 S9935090",prepack,miniload
+S9999603,"Ethiopia Surg.inst.,delivery /SET",prepack,miniload
+S9999604,"Ethiopia Surg.inst.,suture /SET",prepack,miniload
+S9999691,"Prepack 1/4 Mali, in-patient CMAM kit",prepack,miniload
+S9999692,"Prepack 2/4 Mali, in-patient CMAM kit",prepack,miniload
+S9999693,"Prepack 3/4 Mali, in-patient CMAM kit",prepack,miniload
+S9999694,"Prepack 4/4 Mali, in-patient CMAM kit",prepack,miniload
+S9999703,"Prepack 1/3 Ethiopia Midwifery,S9906706",prepack,miniload
+S9999704,"Prepack 2/3 Ethiopia Midwifery,S9906706",prepack,miniload
+S9999705,"Prepack 3/3 Ethiopia Midwifery,S9906706",prepack,miniload
+S9999706,Prepack 1/1  DRC Health Centre kit 2016,prepack,miniload
+S9999707,Subkit  1/4 DRC Health Centre kit 2016,prepack,miniload
+S9999708,Subkit 2/4 DRC Health Centre kit 2016,prepack,miniload
+S9999709,Subkit 3/4 DRC Health Centre kit 2016,prepack,miniload
+S9999710,Subkit 4/4 DRC Health Centre kit 2016,prepack,miniload
+S9999728,Prepa. 1/2 Ethiopia IEHK renew S9906708,prepack,miniload
+S9999729,Prepa. 2/2 Ethiopia IEHK renew S9906708,prepack,miniload
+S9999760,Prepack1/1 Ethiopia Mid.2-Equip.,prepack,miniload
+S9999819,Prepack 1/2 DPRK EM kit 2018,prepack,miniload
+S9999820,Prepack 2/2 DPRK EM kit 2018,prepack,miniload
+S9999857,"Bag 1/3 Surg.inst.,abdominal S9910000",prepack,miniload
+S9999858,"Bag 2/3 Surg.inst.,abdominal S9910000",prepack,miniload
+S9999859,"Bag 3/3 Surg.inst.,abdominal S9910000",prepack,miniload
+S9999861,"Bag 1/2 for S9908400 Resuscit.kit,basic",prepack,miniload
+S9999862,"Bag 2/2 for S9908400 Resuscit.kit,basic",prepack,miniload
+S9999920,Bag DPRK HHD 2018,prepack,miniload
+S9999921,Prepack 1/2 DPRK HHD 2018,prepack,miniload
+S9999922,Prepack 2/2 DPRK HHD 2018,prepack,miniload
+S9999933,Prepack 1/1 School in a Bag,prepack,miniload
+S9999938,Prepack 1/2 Obstetric 3-renew. S9908302,prepack,miniload
+S9999939,Prepack 2/2 Obstetric 3-renew. S9908302,prepack,miniload
+S9999940,Prepack 3/3Midwifery-renewable S9902219,prepack,miniload
+S9999941,Prepack 1/3Midwifery-renewable S9902219,prepack,miniload
+S9999942,Prepack 2/3Midwifery-renewable S9902219,prepack,miniload
+S9999944,"Prepack 1/2 Obstetric,surgical kit,suppl",prepack,miniload
+S9999945,"Prepack 2/2 Obstetric,surgical kit,suppl",prepack,miniload
+S9999957,Prepack 1/1 Midwifery 2-Equip S9902221,prepack,miniload
+S9999979,"E-p for S9935095, 84, 12, 98",prepack,miniload
+S9999986,Prepack for Recreation kits 2016,prepack,miniload
+S9999987,Prepack for ECD Kits  2016,prepack,miniload
+S9999989,prepack 3 system-wise (not physical),prepack,miniload
+S9999990,Education prepack 1 for new SIB  (I),prepack,miniload
+S9999991,Education prepack 2 for new SIB  (I),prepack,miniload
+S9999992,First Aid kit-prepack for S9975020   (I),prepack,miniload
+S7991040,"ECHO IEHK 2024,Basic Med&Renewable S 1/3",subkit,long line
+S7991041,"ECHO IEHK 2024,Basic Med&Renewable S 2/3",subkit,long line
+S7991042,"ECHO IEHK 2024,Basic Med&Renewable S 3/3",subkit,long line
+S7991052,"ECHO IEHK 2024,Suppl Renewable UNIT S1/6",subkit,long line
+S7991053,"ECHO IEHK 2024,Suppl Renewable UNIT S2/6",subkit,long line
+S7991054,"ECHO IEHK 2024,Suppl Renewable UNIT S3/6",subkit,long line
+S7991055,"ECHO IEHK 2024,Suppl Renewable UNIT S4/6",subkit,long line
+S7991056,"ECHO IEHK 2024,Suppl Renewable UNIT S5/6",subkit,long line
+S7991057,"ECHO IEHK 2024,Suppl Renewable UNIT S6/6",subkit,long line
+S7991145,"ECHO IEHK 2024,Suppl Med Inj UNIT S 1/5",subkit,long line
+S7991146,"ECHO IEHK 2024,Suppl Med Inj UNIT S 2/5",subkit,long line
+S7991147,"ECHO IEHK 2024,Suppl Med Inj UNIT S 3/5",subkit,long line
+S7991148,"ECHO IEHK 2024,Suppl Med Inj UNIT S 4/5",subkit,long line
+S7991149,"ECHO IEHK 2024,Suppl Med Inj UNIT S 5/5",subkit,long line
+S7993013,"AWD, Periphery kit, Renewable sub 1/3",subkit,long line
+S7993023,"AWD, Periphery kit, Renewable sub 2/3",subkit,long line
+S7993033,"AWD, Periphery kit, Renewable sub 3/3",subkit,long line
+S7998051,"ECHO IEHK 2024,Suppl Equipment UNIT S1/2",subkit,long line
+S7998052,"ECHO IEHK 2024,Suppl Equipment UNIT S2/2",subkit,long line
+S9986721,SUB 1/3  Yemen PHK 2021-Basic S9906800,subkit,long line
+S9986722,SUB 2/3  Yemen PHK 2021-Basic S9906800,subkit,long line
+S9986723,SUB 3/3  Yemen PHK 2021-Basic S9906800,subkit,long line
+S9991041,"IEHK 2024,Basic Medicine&Renewabl SUB1/3",subkit,long line
+S9991042,"IEHK 2024,Basic Medicine&Renewabl SUB2/3",subkit,long line
+S9991043,"IEHK 2024,Basic Medicine&Renewabl SUB3/3",subkit,long line
+S9991048,"IEHK 2024,Suppl. Malaria UNIT SUB 1/4",subkit,long line
+S9991049,"IEHK 2024,Suppl. Malaria UNIT SUB 2/4",subkit,long line
+S9991050,"IEHK 2024,Suppl. Malaria UNIT SUB 3/4",subkit,long line
+S9991051,"IEHK 2024,Suppl. Malaria UNIT SUB 4/4",subkit,long line
+S9991052,"SUB 1/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991053,"SUB 2/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991054,"SUB 3/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991055,"SUB 4/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991056,"SUB 5/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991057,"SUB 6/6 IEHK 2024,Suppl. Renewable UNIT",subkit,long line
+S9991141,"SUB 1/4 IEHK 2024,Suppl.Medicine Oral",subkit,long line
+S9991142,"SUB 2/4 IEHK 2024,Suppl.Medicine Oral",subkit,long line
+S9991143,"SUB 3/4 IEHK 2024,Suppl.Medicine Oral",subkit,long line
+S9991144,"SUB 4/4 IEHK 2024,Suppl.Medicine Oral",subkit,long line
+S9991145,"SUB 1/5 IEHK 2024,Suppl. Medicine Inj.",subkit,long line
+S9991146,"SUB 2/5 IEHK 2024,Suppl. Medicine Inj.",subkit,long line
+S9991147,"SUB 3/5 IEHK 2024,Suppl. Medicine Inj.",subkit,long line
+S9991148,"SUB 4/5 IEHK 2024,Suppl. Medicine Inj.",subkit,long line
+S9991149,"IEHK 2024,Suppl. Medicine Inj. S9901044",subkit,long line
+S9992412,"SUB 2/3 NBK,Community,Part B,Module1,Med",subkit,long line
+S9992413,"SUB 3/3 NBK,Community,Part B,Module1,Med",subkit,long line
+S9992416,"SUB 1/3 NBK,Community,Part B,Module1,Med",subkit,long line
+S9992430,"SUB 16/16 NBK,Hospital,Module1 Med 16-48",subkit,long line
+S9992431,"SUB 1/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992432,"SUB 2/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992433,"SUB 3/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992434,"SUB 4/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992435,"SUB 5/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992436,"SUB 6/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992437,"SUB 7/8 NBK, Clinic, Module 1, Medicines",subkit,long line
+S9992438,"S9902430  8/8 NBK,Clinic,Mod part 8-40",subkit,long line
+S9992441,"SUB 1/3 NBK, Clinic,Module 2,Consumables",subkit,long line
+S9992442,"SUB 2/3 NBK, Clinic,Module 2,Consumables",subkit,long line
+S9992443,"SUB 3/3 NBK, Clinic,Module 2,Consumables",subkit,long line
+S9992451,"SUB 1/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992452,"SUB 2/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992453,"SUB 3/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992454,"SUB 4/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992457,"SUB 6/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992458,"SUB 5/6 NBK, Clinic, Module 3, Equipment",subkit,long line
+S9992459,"SUB 11/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992460,"SUB 10/16 NBK,Hospital, Module 1,Medicin",subkit,long line
+S9992461,"SUB 1/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992462,"SUB 2/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992463,"SUB 3/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992464,"SUB 4/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992465,"SUB 5/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992466,"SUB 6/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992467,"SUB 7/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992468,"SUB 8/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992469,"SUB 9/16 NBK,Hospital, Module 1, Medicin",subkit,long line
+S9992470,"SUB 1/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992471,"SUB 2/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992472,"SUB 3/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992473,"SUB 4/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992474,"SUB 5/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992475,"SUB 6/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992476,"SUB 7/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992477,"SUB 8/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992478,"SUB 9/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992479,"SUB 10/10 NBK, Hospital,Module 2,Consum",subkit,long line
+S9992481,"SUB 1/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992483,"SUB 3/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992484,"SUB 4/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992488,"SUB 8/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992489,"SUB 9/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992490,"SUB 10/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992493,"SUB 13/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992494,"SUB 14/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992495,"SUB 15/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992496,"SUB 16/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992497,"SUB 17/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992561,"SUB 11/16 NBK,Hospital,Module 1, Medicin",subkit,long line
+S9992562,"SUB 12/16 NBK,Hospital,Module 1, Medicin",subkit,long line
+S9992563,"SUB 13/16 NBK,Hospital,Module 1, Medicin",subkit,long line
+S9992564,"SUB 14/16 NBK,Hospital,Module 1, Medicin",subkit,long line
+S9992565,"SUB 15/16 NBK,Hospital,Module 1, Medicin",subkit,long line
+S9992583,"SUB 6/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992586,"SUB 2/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992587,"SUB 12/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992588,"SUB 7/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9992589,"SUB 5/17 NBK, Hospital, Module 3, Equ",subkit,long line
+S9993731,SUB 1/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993732,SUB 2/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993733,SUB 3/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993734,SUB 4/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993735,SUB 5/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993840,SUB 6/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993841,SUB 7/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993842,SUB 8/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9993843,SUB 9/9 S.Sudan PHCC18  B.Med S9906733,subkit,long line
+S9994730,"Sub5/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994731,"Sub1/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994732,"Sub2/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994733,"Sub3/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994734,"Sub4/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994738,"PP4/4 f Sub4/4 S.Sudan,PHCU Kit S9906734",subkit,long line
+S9994739,"Sub6/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994831,"Sub7/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9994832,"Sub8/8 South Sudan,PHCU Kit2018 S9906734",subkit,long line
+S9995731,SUB 1/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995732,SUB 2/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995733,SUB 3/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995734,SUB 4/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995735,SUB 5/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995736,SUB 6/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995737,SUB 7/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995738,SUB 8/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9995739,SUB 9/9 SSPHCC Kit 2018-Injecta S9906735,subkit,long line
+S9996710,SUB 1/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996711,SUB 2/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996712,SUB 3/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996713,SUB 4/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996714,SUB 5/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996715,SUB 6/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996716,SUB 7/7 Ethiopia Emerg. kit2019 S9906710,subkit,long line
+S9996721,DRC Measles Kit 2021 SUB 1/5,subkit,long line
+S9996722,DRC Measles Kit 2021 SUB 2/5,subkit,long line
+S9996723,DRC Measles Kit 2021 SUB 3/5,subkit,long line
+S9996724,DRC Measles Kit 2021 SUB 4/5,subkit,long line
+S9996725,DRC Measles Kit 2021 SUB 5/5,subkit,long line
+S9996731,S. Sudan PHCC 2018 I sub 1/8 f S9906736,subkit,long line
+S9996732,S. Sudan PHCC 2018 I sub 2/8 f S9906736,subkit,long line
+S9996733,S. Sudan PHCC 2018 I sub 3/8 f S9906736,subkit,long line
+S9996734,S. Sudan PHCC 2018 I sub 4/8 f S9906736,subkit,long line
+S9996735,S. Sudan PHCC 2018 I sub 5/8 f S9906736,subkit,long line
+S9996736,S. Sudan PHCC 2018 I sub 6/8 f S9906736,subkit,long line
+S9996737,S. Sudan PHCC 2018 I sub 7/8 f S9906736,subkit,long line
+S9996738,S. Sudan PHCC 2018 I sub 8/8 f S9906736,subkit,long line
+S9996752,"SUB1/2 Nut kit,I Ethiop.Mod F S9906753",subkit,long line
+S9996753,"SUB2/2 Nut kit,I Ethiop.Mod F S9906753",subkit,long line
+S9996754,"SUB 1/2 S9906754 Nut,Anthropometric. ETH",subkit,long line
+S9996755,"SUB 2/2 S9906754 Nut,Anthropometric. ETH",subkit,long line
+S9996800,"SUB 1/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996801,"SUB 2/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996802,"SUB 3/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996803,"SUB 4/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996804,"SUB 5/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996805,"SUB 6/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996806,"SUB 7/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996808," S 1/2 S9996807 Yemen PHC kit 2025,Medi",subkit,long line
+S9996809," S 2/2 S9996807 Yemen PHC kit 2025,Medi",subkit,long line
+S9996811,"SUB 8/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996812,"SUB 10/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996813,"SUB 11/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996814,"SUB 12/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996815,"SUB 13/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996816,"Yemen PHC kit 2025, Consumables sub 1/3",subkit,long line
+S9996817,"Yemen PHC kit 2025, Consumables sub 2/3",subkit,long line
+S9996818,"Yemen PHC kit 2025, Consumables sub 3/3",subkit,long line
+S9996820,"SUB 14/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996821,"SUB 15/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996822,"SUB 9/15 Yemen PHC kit 2025, Basic Medi",subkit,long line
+S9996823,"Yemen PHC kit 2025, Supp. Medicines s1/5",subkit,long line
+S9996824,"Yemen PHC kit 2025, Supp. Medicines s2/5",subkit,long line
+S9996825,"Yemen PHC kit 2025, Supp. Medicines s3/5",subkit,long line
+S9996826,"Yemen PHC kit 2025, Supp. Medicines s4/5",subkit,long line
+S9996827,"Yemen PHC kit 2025, Supp. Medicines s5/5",subkit,long line
+S9997731,SUB 1/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997732,SUB 2/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997733,SUB 3/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997734,SUB 4/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997735,SUB 5/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997736,SUB 6/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997737,SUB 7/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9997738,SUB 8/8 SSPHCC2018-Med Dev&Diag S9906737,subkit,long line
+S9998051,"sub 1/2 IEHK 2024,Suppl. Equipment UNIT",subkit,long line
+S9998052,"sub 2/2 IEHK 2024,Suppl. Equipment UNIT",subkit,long line
+S9998505,"Sub 4/7 SD IMCI Med. kit, 2016",subkit,long line
+S9998506,"Sub 5/7 SD IMCI Med. kit, 2016",subkit,long line
+S9998507,"Sub 6/7 SD IMCI Med. kit, 2016",subkit,long line
+S9998508,"Sub 7/7 SD IMCI Med. kit, 2016",subkit,long line
+S9999124,AWD Periphery kit Drug S9903004,subkit,long line
+S9999125,AWD Periphery kit Drug S9903004 sub 2/4,subkit,long line
+S9999126,AWD Periphery kit Drug S9903004 sub 3/4,subkit,long line
+S9999127,AWD Periphery kit Drug S9903004 sub 4/4,subkit,long line
+S9999131,"Sub 1/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999132,"Sub 2/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999133,"Sub 3/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999134,"Sub 4/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999135,"Sub 5/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999136,"Sub 6/6 AWD Kit, Periphery kit,Logistics",subkit,long line
+S9999144,"AWD SUB 1/3 Periphery,Renewable",subkit,long line
+S9999145,"AWD SUB 2/3 Periphery,Renewable",subkit,long line
+S9999146,"AWD SUB 3/3 Periphery,Renewable",subkit,long line
+S9999490,Sub 4/4 SD Primary Healthcare2016,subkit,long line
+S9999491,"Sub 1/4, SD SD,Primary Healthcare2016",subkit,long line
+S9999492,"Sub 2/4 , SD Primary Healthcare2016",subkit,long line
+S9999493,"Sub 3/4 , SD Primary Healthcare2016",subkit,long line
+S9999505,"Sub 1/7 SD IMCI Med. kit, 2016",subkit,long line
+S9999506,"Sub 2/7 SD IMCI Med. kit, 2016",subkit,long line
+S9999507,"Sub 3/7 SD IMCI Med. kit, 2016",subkit,long line
+S9999701,"Subkit 1/2 Ethiopia Midwifery,S9906706",subkit,long line
+S9999702,"Subkit 2/2 Ethiopia Midwifery,S9906706",subkit,long line
+S9999721,Subkit 1/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999722,Subkit 2/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999723,Subkit 3/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999724,Subkit 4/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999725,Subkit 5/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999726,Subkit 6/6 Ethiopia IEHK renew S9906708,subkit,long line
+S9999751,"Subkit 1/6 Mali, in-patient CMAM kit",subkit,long line
+S9999752,"Subkit 2/6 Mali, in-patient CMAM kit",subkit,long line
+S9999753,"Subkit 3/6 Mali, in-patient CMAM kit",subkit,long line
+S9999754,"Subkit 4/6 Mali, in-patient CMAM kit",subkit,long line
+S9999755,"Subkit 5/6 Mali, in-patient CMAM kit",subkit,long line
+S9999756,"Subkit 6/6 Mali, in-patient CMAM kit",subkit,long line
+S9999841,"Subkit 1/4 S9902217 Midwifery kit,1-drug",subkit,long line
+S9999842,"Subkit 2/4 S9902217 Midwifery kit,1-drug",subkit,long line
+S9999843,"Subkit 3/4 S9902217 Midwifery kit,1-drug",subkit,long line
+S9999844,"Subkit 4/4 S9902217 Midwifery kit,1-drug",subkit,long line
+S9999881,Subkit 1/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999882,Subkit 2/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999883,Subkit 3/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999884,Subkit 4/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999885,Subkit 5/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999886,Subkit 6/6 Obstetric 3-renew.S9908302,subkit,long line
+S9999898,"Subkit 1/2 Midwifery ,3-renew S9902219",subkit,long line
+S9999899,"Subkit 2/2 Midwifery ,3-renew S9902219",subkit,long line
+S9999923,"Subkit 1/2 Sterilization, kit C S9908200",subkit,long line
+S9999924,"Subkit 2/2 Sterilization, kit C S9908200",subkit,long line
+S9999971,Sub 9/10 Obstetric S9908300(i) part 9,subkit,long line
+S9999972,Sub 6/10 Obstetric S9908300(i) part 6,subkit,long line
+S9999973,Sub 5/10 Obstetric S9908300(i) part 5,subkit,long line
+S9999974,Sub 10/10 Obstetric S9908300 part 10-42,subkit,long line
+S9999975,Sub 4/10 Obstetric S9908300(i) part 4,subkit,long line
+S9999976,Sub 7/10 Obstetric S9908300(i) part 7,subkit,long line
+S9999977,Sub 8/10 Obstetric S9908300(i) part 8,subkit,long line
+S9999993,Sub 3/10 Obstetric S9908300(i) part 3,subkit,long line
+S9999994,Sub 2/10 Obstetric S9908300(i) part 2,subkit,long line
+S9999995,Sub 1/10 Obstetric S9908300(i) part 1,subkit,long line

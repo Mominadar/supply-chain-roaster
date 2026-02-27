@@ -1,0 +1,40 @@
+
+============================================================
+🔄 LOADING FRESH DATA FOR OPTIMIZATION
+============================================================
+🕐 Start Time: 2026-02-23 14:07:31
+
+📦 LOADED PRODUCTS: 13 products
+📈 LOADED DEMAND: 3995 total units
+👥 LOADED TEAM REQUIREMENTS: 2 employee types
+
+======================================================================
+🚀 STARTING OPTIMIZATION
+======================================================================
+
+📊 Final Problem Statistics:
+   Total Variables: 1,240
+   Total Constraints: 2,362
+   Binary Variables: 370 (IsProducedOnLine - only valid combinations)
+   Integer Variables: 390 (Units + Employee Count)
+   Continuous Variables: 370 (Hours - only valid combinations)
+   💡 Optimization: 280 variables eliminated by pre-filtering!
+
+⏱️  Starting solver... (max 5 minutes)
+📊 Solver will show progress below:
+
+⏱️  Solver completed: 59.20 seconds (0.99 minutes)
+⚠️  FEASIBLE solution found (not proven optimal, but acceptable)
+   Reason: Time limit reached or gap tolerance met
+   Solution quality: within 5% of optimal
+
+======================================================================
+🎉 OPTIMIZATION SUMMARY
+======================================================================
+📊 End Time: 2026-02-23 14:08:30
+⏱️  Total Duration: 59.24 seconds (0.99 minutes)
+📊 Optimal Cost: 4312.50
+📊 Products Scheduled: 13
+📊 Total Production: 3,995
+📝 Log saved to: logs/optimization_20260223_140731.txt
+======================================================================

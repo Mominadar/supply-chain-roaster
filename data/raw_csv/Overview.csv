@@ -1,0 +1,72 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+,Report,Planned Prod Orders,,,,,,,Report,MM. Kits Routing
+,Source,Vision,,,,,,,Source,WMS
+,Transaction,COOIS,,,,,,,Transaction,
+,Variant,Planned Orders,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Weekly,,,,,,,Extraction Frequency,Monthly
+,Future Connection,Data-WH,,,,,,,Future Connection,WMS
+,Future Frequency,Connected to Data-WH,,,AI Solution,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Released Prod Orders,,,,,,,Report,Prepick Workcenter
+,Source,Vision,,,,,,,Source,WMS
+,Transaction,COOIS,,,,,,,Transaction,
+,Variant,Planned Orders,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Weekly,,,,,,,Extraction Frequency,Daily
+,Future Connection,Data-WH,,,,,,,Future Connection,WMS
+,Future Frequency,Connected to Data-WH,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Purchase Document List,,,Daily workforce distribution list,,,,Report,Small Line Workcenter
+,Source,Vision,,,,,,,Source,WMS
+,Transaction,ZPOX2,,,,,,,Transaction,
+,Variant,,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Daily,,,,,,,Extraction Frequency,Daily
+,Future Connection,Data-WH,,,,,,,Future Connection,WMS
+,Future Frequency,Connected to Data-WH,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Attendance Data,,,,,,,Report,Bagging Workcenter
+,Source,Vision,,,,,,,Source,WMS
+,Transaction,PT90,,,Dashboard: Planned production output vs actual,,,,Transaction,
+,Variant,,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Daily,,,,,,,Extraction Frequency,Daily
+,Future Connection,Data-WH,,,,,,,Future Connection,WMS
+,Future Frequency,Connected to Data-WH,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Vision Material Master,,,,,,,Report,Miniload  Workcenter
+,Source,Vision,,,,,,,Source,WMS
+,Transaction,Zmat_New,,,,,,,Transaction,
+,Variant,,,,,,,,Variant,
+,Current Extraction,Excel,,,Operational costs of kits,,,,Current Extraction,Excel
+,Extraction Frequency,Weekly,,,,,,,Extraction Frequency,Daily
+,Future Connection,Data-WH,,,,,,,Future Connection,WMS
+,Future Frequency,Connected to Data-WH,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Warehouse Staff Allocation,,,,,,,Report,Long Line Workcenter
+,Source,Manual Excel,,,,,,,Source,WMS
+,Transaction,,,,,,,,Transaction,
+,Variant,,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Monthly,,,Planning/calculation of temporary staff,,,,Extraction Frequency,Daily
+,Future Connection,,,,,,,,Future Connection,WMS
+,Future Frequency,,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Work Center Capacity,,,,,,,Report,Shipping Workcenter
+,Source,Manual Excel,,,,,,,Source,WMS
+,Transaction,,,,,,,,Transaction,
+,Variant,,,,,,,,Variant,
+,Current Extraction,Excel,,,,,,,Current Extraction,Excel
+,Extraction Frequency,Monthly,,,,,,,Extraction Frequency,Daily
+,Future Connection,,,,,,,,Future Connection,WMS
+,Future Frequency,,,,,,,,Future Frequency,Connected to WMS
+,,,,,,,,,,
+,Report,Kits cost data,,,,,,,,
+,Source,Manual Excel,,,,,,,,
+,Transaction,,,,,,,,,
+,Variant,,,,,,,,,
+,Current Extraction,Excel,,,,,,,,
+,Extraction Frequency,Monthly,,,,,,,,
+,Future Connection,,,,,,,,,
+,Future Frequency,,,,,,,,,

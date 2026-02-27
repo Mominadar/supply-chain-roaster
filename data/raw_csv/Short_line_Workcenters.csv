@@ -1,0 +1,55 @@
+Delivery / Kit order,# of Sets/Kits,# of Materials,Instructions,Status,Workline,Est. Volume,Est. Weight,# SU,Transport,Priority,Shipping Point,Destination,Haz. Material,Incomplete,Scope,Status Reservation,Amount,ReservedAmount,PickedAmount
+100035113,33,2,NO,A,LL BULK,38,13324,46,SEA,1,1999,Denmark,No,No,--,--,--,--,--
+50183038,--,1,NO,B,SL05,3,253,3,SEA,1,1002,Mozambique,No,No,--,--,--,--,--
+50183041,--,1,NO,B,SL05,8,1600,7,SEA,2,1002,Sudan (the),Yes,No,--,--,--,--,--
+50182949,--,2,NO,B,SL03,5,1384,7,AIR,3,1000,Sierra Leone,No,No,--,--,--,--,--
+50182967,--,2,YES,B,SL04,11,2723,11,AIR,3,1000,Cote d'Ivoire,No,No,--,--,--,--,--
+50183013,--,1,NO,B,SL02,2,450,3,AIR,3,1000,Niger (the),No,No,--,--,--,--,--
+50183014,--,1,NO,A,SL,0,39,2,AIR,3,1000,South Sudan,No,No,--,--,--,--,--
+50183017,--,1,NO,A,SL,2,300,1,AIR,3,1000,Niger (the),Yes,No,--,--,--,--,--
+50183015,--,1,NO,A,SL,2,400,3,AIR,3,1000,DR of the Congo,Yes,No,--,--,--,--,--
+50183023,--,2,NO,A,SL,8,1955,10,AIR,3,1000,Guinea,No,No,--,--,--,--,--
+50183016,--,1,YES,A,SL,0,3,1,AIR,3,1000,Albania,No,No,--,--,--,--,--
+50183033,--,2,NO,A,SL,3,716,3,AIR,3,1000,Mauritania,No,No,--,--,--,--,--
+50182845,--,10,NO,A,SL01,44,14301,51,SEA,4,1000,Venezuela,No,No,--,--,--,--,--
+100033061,90,8,NO,A,SL,154,2950,19,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034504,31,3,NO,A,SL01,3,764,7,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034500,22,3,NO,A,SL,25,8910,25,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034413,326,5,NO,A,SL,2,349,5,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034035,30,8,NO,A,SL,2,191,7,SEA,5,1999,Denmark,Yes,No,--,--,--,--,--
+100034412,400,5,NO,A,SL,2,428,6,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034937,190,7,NO,B,LL BULK,2,174,5,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034760,4,8,NO,B,SL04,1,104,6,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034608,33,2,NO,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035108,33,2,YES,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035109,33,2,YES,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035110,33,2,YES,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035111,33,2,YES,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035112,33,2,YES,A,SL,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100035114,33,2,NO,A,SL BULK,38,13324,33,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034740,50,1,NO,A,SL,13,838,13,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034809,800,5,NO,B,LL BULK,21,5110,22,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+100034739,50,1,NO,A,SL,13,838,14,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+50182921,--,13,YES,A,SL,16,2493,19,SEA,5,1000,Pakistan,Yes,No,--,--,--,--,--
+50182947,--,2,YES,A,SL,3,818,4,SEA,5,1000,Yemen,No,No,--,--,--,--,--
+50182946,--,2,YES,A,SL,3,818,5,SEA,5,1000,Yemen,No,No,--,--,--,--,--
+50182948,--,2,YES,A,SL,6,1510,6,SEA,5,1000,Yemen,No,No,--,--,--,--,--
+100032406,4,1,NO,A,SL,6,357,6,SEA,5,1999,Denmark,No,No,--,--,--,--,--
+50182995,--,1,NO,A,SL,1,102,1,SEA,5,1000,Mali,No,No,--,--,--,--,--
+50182986,--,1,NO,A,SL,10,1920,11,SEA,5,1000,Mali,No,No,--,--,--,--,--
+50182990,--,1,NO,A,SL,0,37,1,SEA,5,1000,Central Afr.Rep,No,No,--,--,--,--,--
+50182974,--,1,NO,A,SL,67,7790,52,SEA,5,1000,Tanzania,No,No,--,--,--,--,--
+50182977,--,1,NO,A,SL,3,643,4,SEA,5,1000,Burkina Faso,Yes,No,--,--,--,--,--
+50182973,--,1,NO,A,SL,3,822,4,SEA,5,1000,South Sudan,No,No,--,--,--,--,--
+50182996,--,2,YES,A,SL,2,671,6,SEA,5,1000,Bolivia,No,No,--,--,--,--,--
+50183020,--,1,NO,A,SL,15,2644,16,SEA,5,1000,Sudan (the),No,No,--,--,--,--,--
+50183021,--,1,YES,A,SL,5,972,6,SEA,5,1000,Chad,No,No,--,--,--,--,--
+50183022,--,1,YES,A,SL,7,1361,9,SEA,5,1000,Chad,No,No,--,--,--,--,--
+50183006,--,1,YES,A,SL,26,4744,28,SEA,5,1000,Sudan (the),No,No,--,--,--,--,--
+50183008,--,1,NO,A,SL,46,8400,49,SEA,5,1000,Sudan (the),No,No,--,--,--,--,--
+50183007,--,1,YES,A,SL,11,1944,12,SEA,5,1000,South Sudan,No,No,--,--,--,--,--
+50183009,--,1,NO,A,SL,9,1556,10,SEA,5,1000,Sudan (the),No,No,--,--,--,--,--
+50183011,--,1,NO,A,SL,3,409,4,SEA,5,1000,Yemen,No,No,--,--,--,--,--
+50183010,--,1,NO,A,SL,9,1556,9,SEA,5,1000,Chad,No,No,--,--,--,--,--
+50183030,--,6,YES,A,SL,12,2674,17,SEA,5,1000,Central Afr.Rep,No,No,--,--,--,--,--
+50183029,--,9,YES,A,SL,60,12072,71,SEA,5,1000,Central Afr.Rep,No,No,--,--,--,--,--
